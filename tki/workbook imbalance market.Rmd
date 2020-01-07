@@ -1,0 +1,25 @@
+library(tidyverse)
+library(kableExtra)
+
+dset <- read_csv("imbalance.csv") %>% 
+  mutate(Date = lubridate::mdy(Date))
+dset_2018 <- read_csv("imbalance2018b.csv") %>% 
+  mutate(Date = lubridate::mdy(Date))
+
+dset_full <- rbind(dset, dset_2018)
+
+dset2 <- dset_full %>% 
+  group_by(PTE) %>% 
+  summarise(imbalance = mean(imbalance_kWhPTE, na.rm = TRUE),
+            downward = mean(downward_dispatch_kWhPTE, na.rm = TRUE),
+            feed_price = mean(feed_into_system_EURMwh, na.rm = TRUE),
+            purchase = mean(purchase_kWhPTE, na.rm = TRUE),
+            upward = mean(upward_dispatch_EURMwh, na.rm = TRUE),
+            take_price = mean(take_from_system_kWhPTE, na.rm = TRUE),
+            sell = mean(sell_kWhPTE, na.rm = TRUE)) %>% 
+  filter(PTE <= 96) %>% 
+  left_join(table_pte)
+
+
+dset2 %>% top_n(abs(imbalance), n = 10) %>% arrange(desc(abs(imbalance)))
+dset2 %>% top_n(feed_price, n = 10) %>% select(period_from, imbalance, feed_price) %>%  arrange(desc(feed_price)) %>% kableExtra::kable()
