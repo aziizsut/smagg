@@ -1,0 +1,32 @@
+[
+  {
+    "percentage": "70%",
+    "bracket": "up to 50",
+    "price": 1.15
+  },
+  {
+    "percentage": "70%",
+    "bracket": "50 - 1500",
+    "price": 3.12
+  },
+  {
+    "percentage": "80%",
+    "bracket": "up to 50",
+    "price": 0.865
+  },
+  {
+    "percentage": "80%",
+    "bracket": "50 - 1500",
+    "price": 3.35
+  },
+  {
+    "percentage": "100%",
+    "bracket": "up to 50",
+    "price": 0.865
+  },
+  {
+    "percentage": "100%",
+    "bracket": "50 - 1500",
+    "price": 2.606
+  }
+]
