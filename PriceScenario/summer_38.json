@@ -1,4002 +1,4002 @@
 [
   {
     "capacity": 0.01,
-    "price": 0.0311
+    "price": 0.0865
   },
   {
     "capacity": 0.11,
-    "price": 0.0314
+    "price": 0.0874
   },
   {
     "capacity": 0.21,
-    "price": 0.0318
+    "price": 0.0883
   },
   {
     "capacity": 0.31,
-    "price": 0.0321
+    "price": 0.0892
   },
   {
     "capacity": 0.41,
-    "price": 0.0324
-  },
-  {
-    "capacity": 0.51,
-    "price": 0.0328
-  },
-  {
-    "capacity": 0.61,
-    "price": 0.0331
-  },
-  {
-    "capacity": 0.71,
-    "price": 0.0335
-  },
-  {
-    "capacity": 0.81,
-    "price": 0.0338
-  },
-  {
-    "capacity": 0.91,
-    "price": 0.0342
-  },
-  {
-    "capacity": 1.01,
-    "price": 0.0345
-  },
-  {
-    "capacity": 1.11,
-    "price": 0.0349
-  },
-  {
-    "capacity": 1.21,
-    "price": 0.0353
-  },
-  {
-    "capacity": 1.31,
-    "price": 0.0356
-  },
-  {
-    "capacity": 1.41,
-    "price": 0.036
-  },
-  {
-    "capacity": 1.51,
-    "price": 0.0364
-  },
-  {
-    "capacity": 1.61,
-    "price": 0.0368
-  },
-  {
-    "capacity": 1.71,
-    "price": 0.0371
-  },
-  {
-    "capacity": 1.81,
-    "price": 0.0375
-  },
-  {
-    "capacity": 1.91,
-    "price": 0.0379
-  },
-  {
-    "capacity": 2.01,
-    "price": 0.0383
-  },
-  {
-    "capacity": 2.11,
-    "price": 0.0387
-  },
-  {
-    "capacity": 2.21,
-    "price": 0.0391
-  },
-  {
-    "capacity": 2.31,
-    "price": 0.0395
-  },
-  {
-    "capacity": 2.41,
-    "price": 0.04
-  },
-  {
-    "capacity": 2.51,
-    "price": 0.0404
-  },
-  {
-    "capacity": 2.61,
-    "price": 0.0408
-  },
-  {
-    "capacity": 2.71,
-    "price": 0.0412
-  },
-  {
-    "capacity": 2.81,
-    "price": 0.0417
-  },
-  {
-    "capacity": 2.91,
-    "price": 0.0421
-  },
-  {
-    "capacity": 3.01,
-    "price": 0.0425
-  },
-  {
-    "capacity": 3.11,
-    "price": 0.043
-  },
-  {
-    "capacity": 3.21,
-    "price": 0.0434
-  },
-  {
-    "capacity": 3.31,
-    "price": 0.0439
-  },
-  {
-    "capacity": 3.41,
-    "price": 0.0443
-  },
-  {
-    "capacity": 3.51,
-    "price": 0.0448
-  },
-  {
-    "capacity": 3.61,
-    "price": 0.0453
-  },
-  {
-    "capacity": 3.71,
-    "price": 0.0458
-  },
-  {
-    "capacity": 3.81,
-    "price": 0.0462
-  },
-  {
-    "capacity": 3.91,
-    "price": 0.0467
-  },
-  {
-    "capacity": 4.01,
-    "price": 0.0472
-  },
-  {
-    "capacity": 4.11,
-    "price": 0.0477
-  },
-  {
-    "capacity": 4.21,
-    "price": 0.0482
-  },
-  {
-    "capacity": 4.31,
-    "price": 0.0487
-  },
-  {
-    "capacity": 4.41,
-    "price": 0.0492
-  },
-  {
-    "capacity": 4.51,
-    "price": 0.0497
-  },
-  {
-    "capacity": 4.61,
-    "price": 0.0503
-  },
-  {
-    "capacity": 4.71,
-    "price": 0.0508
-  },
-  {
-    "capacity": 4.81,
-    "price": 0.0513
-  },
-  {
-    "capacity": 4.91,
-    "price": 0.0518
-  },
-  {
-    "capacity": 5.01,
-    "price": 0.0524
-  },
-  {
-    "capacity": 5.11,
-    "price": 0.0529
-  },
-  {
-    "capacity": 5.21,
-    "price": 0.0535
-  },
-  {
-    "capacity": 5.31,
-    "price": 0.0541
-  },
-  {
-    "capacity": 5.41,
-    "price": 0.0546
-  },
-  {
-    "capacity": 5.51,
-    "price": 0.0552
-  },
-  {
-    "capacity": 5.61,
-    "price": 0.0558
-  },
-  {
-    "capacity": 5.71,
-    "price": 0.0564
-  },
-  {
-    "capacity": 5.81,
-    "price": 0.0569
-  },
-  {
-    "capacity": 5.91,
-    "price": 0.0575
-  },
-  {
-    "capacity": 6.01,
-    "price": 0.0581
-  },
-  {
-    "capacity": 6.11,
-    "price": 0.0588
-  },
-  {
-    "capacity": 6.21,
-    "price": 0.0594
-  },
-  {
-    "capacity": 6.31,
-    "price": 0.06
-  },
-  {
-    "capacity": 6.41,
-    "price": 0.0606
-  },
-  {
-    "capacity": 6.51,
-    "price": 0.0613
-  },
-  {
-    "capacity": 6.61,
-    "price": 0.0619
-  },
-  {
-    "capacity": 6.71,
-    "price": 0.0625
-  },
-  {
-    "capacity": 6.81,
-    "price": 0.0632
-  },
-  {
-    "capacity": 6.91,
-    "price": 0.0639
-  },
-  {
-    "capacity": 7.01,
-    "price": 0.0645
-  },
-  {
-    "capacity": 7.11,
-    "price": 0.0652
-  },
-  {
-    "capacity": 7.21,
-    "price": 0.0659
-  },
-  {
-    "capacity": 7.31,
-    "price": 0.0666
-  },
-  {
-    "capacity": 7.41,
-    "price": 0.0673
-  },
-  {
-    "capacity": 7.51,
-    "price": 0.068
-  },
-  {
-    "capacity": 7.61,
-    "price": 0.0687
-  },
-  {
-    "capacity": 7.71,
-    "price": 0.0694
-  },
-  {
-    "capacity": 7.81,
-    "price": 0.0701
-  },
-  {
-    "capacity": 7.91,
-    "price": 0.0709
-  },
-  {
-    "capacity": 8.01,
-    "price": 0.0716
-  },
-  {
-    "capacity": 8.11,
-    "price": 0.0724
-  },
-  {
-    "capacity": 8.21,
-    "price": 0.0731
-  },
-  {
-    "capacity": 8.31,
-    "price": 0.0739
-  },
-  {
-    "capacity": 8.41,
-    "price": 0.0747
-  },
-  {
-    "capacity": 8.51,
-    "price": 0.0754
-  },
-  {
-    "capacity": 8.61,
-    "price": 0.0762
-  },
-  {
-    "capacity": 8.71,
-    "price": 0.077
-  },
-  {
-    "capacity": 8.81,
-    "price": 0.0778
-  },
-  {
-    "capacity": 8.91,
-    "price": 0.0787
-  },
-  {
-    "capacity": 9.01,
-    "price": 0.0795
-  },
-  {
-    "capacity": 9.11,
-    "price": 0.0803
-  },
-  {
-    "capacity": 9.21,
-    "price": 0.0812
-  },
-  {
-    "capacity": 9.31,
-    "price": 0.082
-  },
-  {
-    "capacity": 9.41,
-    "price": 0.0829
-  },
-  {
-    "capacity": 9.51,
-    "price": 0.0837
-  },
-  {
-    "capacity": 9.61,
-    "price": 0.0846
-  },
-  {
-    "capacity": 9.71,
-    "price": 0.0855
-  },
-  {
-    "capacity": 9.81,
-    "price": 0.0864
-  },
-  {
-    "capacity": 9.91,
-    "price": 0.0873
-  },
-  {
-    "capacity": 10.01,
-    "price": 0.0882
-  },
-  {
-    "capacity": 10.11,
-    "price": 0.0891
-  },
-  {
-    "capacity": 10.21,
     "price": 0.0901
   },
   {
-    "capacity": 10.31,
-    "price": 0.091
+    "capacity": 0.51,
+    "price": 0.0911
   },
   {
-    "capacity": 10.41,
+    "capacity": 0.61,
     "price": 0.092
   },
   {
-    "capacity": 10.51,
-    "price": 0.0929
+    "capacity": 0.71,
+    "price": 0.093
   },
   {
-    "capacity": 10.61,
-    "price": 0.0939
+    "capacity": 0.81,
+    "price": 0.094
   },
   {
-    "capacity": 10.71,
-    "price": 0.0949
+    "capacity": 0.91,
+    "price": 0.095
   },
   {
-    "capacity": 10.81,
-    "price": 0.0959
+    "capacity": 1.01,
+    "price": 0.096
   },
   {
-    "capacity": 10.91,
-    "price": 0.0969
+    "capacity": 1.11,
+    "price": 0.097
   },
   {
-    "capacity": 11.01,
-    "price": 0.0979
+    "capacity": 1.21,
+    "price": 0.098
   },
   {
-    "capacity": 11.11,
-    "price": 0.0989
+    "capacity": 1.31,
+    "price": 0.099
   },
   {
-    "capacity": 11.21,
-    "price": 0.0999
+    "capacity": 1.41,
+    "price": 0.1
   },
   {
-    "capacity": 11.31,
-    "price": 0.101
+    "capacity": 1.51,
+    "price": 0.1011
   },
   {
-    "capacity": 11.41,
+    "capacity": 1.61,
     "price": 0.1021
   },
   {
+    "capacity": 1.71,
+    "price": 0.1032
+  },
+  {
+    "capacity": 1.81,
+    "price": 0.1043
+  },
+  {
+    "capacity": 1.91,
+    "price": 0.1054
+  },
+  {
+    "capacity": 2.01,
+    "price": 0.1065
+  },
+  {
+    "capacity": 2.11,
+    "price": 0.1076
+  },
+  {
+    "capacity": 2.21,
+    "price": 0.1087
+  },
+  {
+    "capacity": 2.31,
+    "price": 0.1099
+  },
+  {
+    "capacity": 2.41,
+    "price": 0.111
+  },
+  {
+    "capacity": 2.51,
+    "price": 0.1122
+  },
+  {
+    "capacity": 2.61,
+    "price": 0.1134
+  },
+  {
+    "capacity": 2.71,
+    "price": 0.1146
+  },
+  {
+    "capacity": 2.81,
+    "price": 0.1158
+  },
+  {
+    "capacity": 2.91,
+    "price": 0.117
+  },
+  {
+    "capacity": 3.01,
+    "price": 0.1182
+  },
+  {
+    "capacity": 3.11,
+    "price": 0.1194
+  },
+  {
+    "capacity": 3.21,
+    "price": 0.1207
+  },
+  {
+    "capacity": 3.31,
+    "price": 0.1219
+  },
+  {
+    "capacity": 3.41,
+    "price": 0.1232
+  },
+  {
+    "capacity": 3.51,
+    "price": 0.1245
+  },
+  {
+    "capacity": 3.61,
+    "price": 0.1258
+  },
+  {
+    "capacity": 3.71,
+    "price": 0.1271
+  },
+  {
+    "capacity": 3.81,
+    "price": 0.1285
+  },
+  {
+    "capacity": 3.91,
+    "price": 0.1298
+  },
+  {
+    "capacity": 4.01,
+    "price": 0.1312
+  },
+  {
+    "capacity": 4.11,
+    "price": 0.1325
+  },
+  {
+    "capacity": 4.21,
+    "price": 0.1339
+  },
+  {
+    "capacity": 4.31,
+    "price": 0.1353
+  },
+  {
+    "capacity": 4.41,
+    "price": 0.1367
+  },
+  {
+    "capacity": 4.51,
+    "price": 0.1382
+  },
+  {
+    "capacity": 4.61,
+    "price": 0.1396
+  },
+  {
+    "capacity": 4.71,
+    "price": 0.1411
+  },
+  {
+    "capacity": 4.81,
+    "price": 0.1426
+  },
+  {
+    "capacity": 4.91,
+    "price": 0.1441
+  },
+  {
+    "capacity": 5.01,
+    "price": 0.1456
+  },
+  {
+    "capacity": 5.11,
+    "price": 0.1471
+  },
+  {
+    "capacity": 5.21,
+    "price": 0.1486
+  },
+  {
+    "capacity": 5.31,
+    "price": 0.1502
+  },
+  {
+    "capacity": 5.41,
+    "price": 0.1518
+  },
+  {
+    "capacity": 5.51,
+    "price": 0.1533
+  },
+  {
+    "capacity": 5.61,
+    "price": 0.155
+  },
+  {
+    "capacity": 5.71,
+    "price": 0.1566
+  },
+  {
+    "capacity": 5.81,
+    "price": 0.1582
+  },
+  {
+    "capacity": 5.91,
+    "price": 0.1599
+  },
+  {
+    "capacity": 6.01,
+    "price": 0.1615
+  },
+  {
+    "capacity": 6.11,
+    "price": 0.1632
+  },
+  {
+    "capacity": 6.21,
+    "price": 0.165
+  },
+  {
+    "capacity": 6.31,
+    "price": 0.1667
+  },
+  {
+    "capacity": 6.41,
+    "price": 0.1684
+  },
+  {
+    "capacity": 6.51,
+    "price": 0.1702
+  },
+  {
+    "capacity": 6.61,
+    "price": 0.172
+  },
+  {
+    "capacity": 6.71,
+    "price": 0.1738
+  },
+  {
+    "capacity": 6.81,
+    "price": 0.1756
+  },
+  {
+    "capacity": 6.91,
+    "price": 0.1774
+  },
+  {
+    "capacity": 7.01,
+    "price": 0.1793
+  },
+  {
+    "capacity": 7.11,
+    "price": 0.1812
+  },
+  {
+    "capacity": 7.21,
+    "price": 0.1831
+  },
+  {
+    "capacity": 7.31,
+    "price": 0.185
+  },
+  {
+    "capacity": 7.41,
+    "price": 0.1869
+  },
+  {
+    "capacity": 7.51,
+    "price": 0.1889
+  },
+  {
+    "capacity": 7.61,
+    "price": 0.1909
+  },
+  {
+    "capacity": 7.71,
+    "price": 0.1929
+  },
+  {
+    "capacity": 7.81,
+    "price": 0.1949
+  },
+  {
+    "capacity": 7.91,
+    "price": 0.1969
+  },
+  {
+    "capacity": 8.01,
+    "price": 0.199
+  },
+  {
+    "capacity": 8.11,
+    "price": 0.2011
+  },
+  {
+    "capacity": 8.21,
+    "price": 0.2032
+  },
+  {
+    "capacity": 8.31,
+    "price": 0.2053
+  },
+  {
+    "capacity": 8.41,
+    "price": 0.2074
+  },
+  {
+    "capacity": 8.51,
+    "price": 0.2096
+  },
+  {
+    "capacity": 8.61,
+    "price": 0.2118
+  },
+  {
+    "capacity": 8.71,
+    "price": 0.214
+  },
+  {
+    "capacity": 8.81,
+    "price": 0.2163
+  },
+  {
+    "capacity": 8.91,
+    "price": 0.2185
+  },
+  {
+    "capacity": 9.01,
+    "price": 0.2208
+  },
+  {
+    "capacity": 9.11,
+    "price": 0.2231
+  },
+  {
+    "capacity": 9.21,
+    "price": 0.2255
+  },
+  {
+    "capacity": 9.31,
+    "price": 0.2278
+  },
+  {
+    "capacity": 9.41,
+    "price": 0.2302
+  },
+  {
+    "capacity": 9.51,
+    "price": 0.2326
+  },
+  {
+    "capacity": 9.61,
+    "price": 0.2351
+  },
+  {
+    "capacity": 9.71,
+    "price": 0.2375
+  },
+  {
+    "capacity": 9.81,
+    "price": 0.24
+  },
+  {
+    "capacity": 9.91,
+    "price": 0.2425
+  },
+  {
+    "capacity": 10.01,
+    "price": 0.2451
+  },
+  {
+    "capacity": 10.11,
+    "price": 0.2476
+  },
+  {
+    "capacity": 10.21,
+    "price": 0.2502
+  },
+  {
+    "capacity": 10.31,
+    "price": 0.2528
+  },
+  {
+    "capacity": 10.41,
+    "price": 0.2555
+  },
+  {
+    "capacity": 10.51,
+    "price": 0.2582
+  },
+  {
+    "capacity": 10.61,
+    "price": 0.2609
+  },
+  {
+    "capacity": 10.71,
+    "price": 0.2636
+  },
+  {
+    "capacity": 10.81,
+    "price": 0.2664
+  },
+  {
+    "capacity": 10.91,
+    "price": 0.2692
+  },
+  {
+    "capacity": 11.01,
+    "price": 0.272
+  },
+  {
+    "capacity": 11.11,
+    "price": 0.2748
+  },
+  {
+    "capacity": 11.21,
+    "price": 0.2777
+  },
+  {
+    "capacity": 11.31,
+    "price": 0.2806
+  },
+  {
+    "capacity": 11.41,
+    "price": 0.2835
+  },
+  {
     "capacity": 11.51,
-    "price": 0.1031
+    "price": 0.2865
   },
   {
     "capacity": 11.61,
-    "price": 0.1042
+    "price": 0.2895
   },
   {
     "capacity": 11.71,
-    "price": 0.1053
+    "price": 0.2925
   },
   {
     "capacity": 11.81,
-    "price": 0.1064
+    "price": 0.2956
   },
   {
     "capacity": 11.91,
-    "price": 0.1075
+    "price": 0.2987
   },
   {
     "capacity": 12.01,
-    "price": 0.1086
+    "price": 0.3018
   },
   {
     "capacity": 12.11,
-    "price": 0.1098
+    "price": 0.305
   },
   {
     "capacity": 12.21,
-    "price": 0.1109
+    "price": 0.3082
   },
   {
     "capacity": 12.31,
-    "price": 0.1121
+    "price": 0.3114
   },
   {
     "capacity": 12.41,
-    "price": 0.1133
+    "price": 0.3147
   },
   {
     "capacity": 12.51,
-    "price": 0.1144
+    "price": 0.318
   },
   {
     "capacity": 12.61,
-    "price": 0.1156
+    "price": 0.3213
   },
   {
     "capacity": 12.71,
-    "price": 0.1169
+    "price": 0.3247
   },
   {
     "capacity": 12.81,
-    "price": 0.1181
+    "price": 0.3281
   },
   {
     "capacity": 12.91,
-    "price": 0.1193
+    "price": 0.3315
   },
   {
     "capacity": 13.01,
-    "price": 0.1206
+    "price": 0.335
   },
   {
     "capacity": 13.11,
-    "price": 0.1218
+    "price": 0.3385
   },
   {
     "capacity": 13.21,
-    "price": 0.1231
+    "price": 0.342
   },
   {
     "capacity": 13.31,
-    "price": 0.1244
+    "price": 0.3456
   },
   {
     "capacity": 13.41,
-    "price": 0.1257
+    "price": 0.3492
   },
   {
     "capacity": 13.51,
-    "price": 0.127
+    "price": 0.3529
   },
   {
     "capacity": 13.61,
-    "price": 0.1283
+    "price": 0.3566
   },
   {
     "capacity": 13.71,
-    "price": 0.1297
+    "price": 0.3603
   },
   {
     "capacity": 13.81,
-    "price": 0.131
+    "price": 0.3641
   },
   {
     "capacity": 13.91,
-    "price": 0.1324
+    "price": 0.3679
   },
   {
     "capacity": 14.01,
-    "price": 0.1338
+    "price": 0.3718
   },
   {
     "capacity": 14.11,
-    "price": 0.1352
+    "price": 0.3757
   },
   {
     "capacity": 14.21,
-    "price": 0.1366
+    "price": 0.3796
   },
   {
     "capacity": 14.31,
-    "price": 0.1381
+    "price": 0.3836
   },
   {
     "capacity": 14.41,
-    "price": 0.1395
+    "price": 0.3876
   },
   {
     "capacity": 14.51,
-    "price": 0.141
+    "price": 0.3916
   },
   {
     "capacity": 14.61,
-    "price": 0.1424
+    "price": 0.3957
   },
   {
     "capacity": 14.71,
-    "price": 0.1439
+    "price": 0.3999
   },
   {
     "capacity": 14.81,
-    "price": 0.1454
+    "price": 0.4041
   },
   {
     "capacity": 14.91,
-    "price": 0.147
+    "price": 0.4083
   },
   {
     "capacity": 15.01,
-    "price": 0.1485
+    "price": 0.4126
   },
   {
     "capacity": 15.11,
-    "price": 0.15
+    "price": 0.4169
   },
   {
     "capacity": 15.21,
-    "price": 0.1516
+    "price": 0.4213
   },
   {
     "capacity": 15.31,
-    "price": 0.1532
+    "price": 0.4257
   },
   {
     "capacity": 15.41,
-    "price": 0.1548
+    "price": 0.4301
   },
   {
     "capacity": 15.51,
-    "price": 0.1564
+    "price": 0.4346
   },
   {
     "capacity": 15.61,
-    "price": 0.1581
+    "price": 0.4392
   },
   {
     "capacity": 15.71,
-    "price": 0.1597
+    "price": 0.4438
   },
   {
     "capacity": 15.81,
-    "price": 0.1614
+    "price": 0.4484
   },
   {
     "capacity": 15.91,
-    "price": 0.1631
+    "price": 0.4531
   },
   {
     "capacity": 16.01,
-    "price": 0.1648
+    "price": 0.4579
   },
   {
     "capacity": 16.11,
-    "price": 0.1665
+    "price": 0.4627
   },
   {
     "capacity": 16.21,
-    "price": 0.1683
+    "price": 0.4675
   },
   {
     "capacity": 16.31,
-    "price": 0.17
+    "price": 0.4724
   },
   {
     "capacity": 16.41,
-    "price": 0.1718
+    "price": 0.4774
   },
   {
     "capacity": 16.51,
-    "price": 0.1736
+    "price": 0.4824
   },
   {
     "capacity": 16.61,
-    "price": 0.1754
+    "price": 0.4874
   },
   {
     "capacity": 16.71,
-    "price": 0.1773
+    "price": 0.4925
   },
   {
     "capacity": 16.81,
-    "price": 0.1791
+    "price": 0.4977
   },
   {
     "capacity": 16.91,
-    "price": 0.181
+    "price": 0.5029
   },
   {
     "capacity": 17.01,
-    "price": 0.1829
+    "price": 0.5082
   },
   {
     "capacity": 17.11,
-    "price": 0.1848
+    "price": 0.5135
   },
   {
     "capacity": 17.21,
-    "price": 0.1867
+    "price": 0.5188
   },
   {
     "capacity": 17.31,
-    "price": 0.1887
+    "price": 0.5243
   },
   {
     "capacity": 17.41,
-    "price": 0.1907
+    "price": 0.5298
   },
   {
     "capacity": 17.51,
-    "price": 0.1927
+    "price": 0.5353
   },
   {
     "capacity": 17.61,
-    "price": 0.1947
+    "price": 0.5409
   },
   {
     "capacity": 17.71,
-    "price": 0.1967
+    "price": 0.5466
   },
   {
     "capacity": 17.81,
-    "price": 0.1988
+    "price": 0.5523
   },
   {
     "capacity": 17.91,
-    "price": 0.2009
+    "price": 0.5581
   },
   {
     "capacity": 18.01,
-    "price": 0.203
+    "price": 0.5639
   },
   {
     "capacity": 18.11,
-    "price": 0.2051
+    "price": 0.5699
   },
   {
     "capacity": 18.21,
-    "price": 0.2072
+    "price": 0.5758
   },
   {
     "capacity": 18.31,
-    "price": 0.2094
+    "price": 0.5818
   },
   {
     "capacity": 18.41,
-    "price": 0.2116
+    "price": 0.5879
   },
   {
     "capacity": 18.51,
-    "price": 0.2138
+    "price": 0.5941
   },
   {
     "capacity": 18.61,
-    "price": 0.2161
+    "price": 0.6003
   },
   {
     "capacity": 18.71,
-    "price": 0.2183
+    "price": 0.6066
   },
   {
     "capacity": 18.81,
-    "price": 0.2206
+    "price": 0.613
   },
   {
     "capacity": 18.91,
-    "price": 0.2229
+    "price": 0.6194
   },
   {
     "capacity": 19.01,
-    "price": 0.2253
+    "price": 0.6259
   },
   {
     "capacity": 19.11,
-    "price": 0.2276
+    "price": 0.6324
   },
   {
     "capacity": 19.21,
-    "price": 0.23
+    "price": 0.639
   },
   {
     "capacity": 19.31,
-    "price": 0.2324
+    "price": 0.6457
   },
   {
     "capacity": 19.41,
-    "price": 0.2348
+    "price": 0.6525
   },
   {
     "capacity": 19.51,
-    "price": 0.2373
+    "price": 0.6593
   },
   {
     "capacity": 19.61,
-    "price": 0.2398
+    "price": 0.6662
   },
   {
     "capacity": 19.71,
-    "price": 0.2423
+    "price": 0.6732
   },
   {
     "capacity": 19.81,
-    "price": 0.2448
+    "price": 0.6803
   },
   {
     "capacity": 19.91,
-    "price": 0.2474
+    "price": 0.6874
   },
   {
     "capacity": 20.01,
-    "price": 0.25
+    "price": 0.6946
   },
   {
     "capacity": 20.11,
-    "price": 0.2526
+    "price": 0.7019
   },
   {
     "capacity": 20.21,
-    "price": 0.2553
+    "price": 0.7092
   },
   {
     "capacity": 20.31,
-    "price": 0.2579
+    "price": 0.7166
   },
   {
     "capacity": 20.41,
-    "price": 0.2606
+    "price": 0.7241
   },
   {
     "capacity": 20.51,
-    "price": 0.2634
+    "price": 0.7317
   },
   {
     "capacity": 20.61,
-    "price": 0.2661
+    "price": 0.7394
   },
   {
     "capacity": 20.71,
-    "price": 0.2689
+    "price": 0.7471
   },
   {
     "capacity": 20.81,
-    "price": 0.2717
+    "price": 0.755
   },
   {
     "capacity": 20.91,
-    "price": 0.2746
+    "price": 0.7629
   },
   {
     "capacity": 21.01,
-    "price": 0.2774
+    "price": 0.7708
   },
   {
     "capacity": 21.11,
-    "price": 0.2803
+    "price": 0.7789
   },
   {
     "capacity": 21.21,
-    "price": 0.2833
+    "price": 0.7871
   },
   {
     "capacity": 21.31,
-    "price": 0.2863
+    "price": 0.7953
   },
   {
     "capacity": 21.41,
-    "price": 0.2892
+    "price": 0.8037
   },
   {
     "capacity": 21.51,
-    "price": 0.2923
+    "price": 0.8121
   },
   {
     "capacity": 21.61,
-    "price": 0.2953
+    "price": 0.8206
   },
   {
     "capacity": 21.71,
-    "price": 0.2984
+    "price": 0.8292
   },
   {
     "capacity": 21.81,
-    "price": 0.3016
+    "price": 0.8378
   },
   {
     "capacity": 21.91,
-    "price": 0.3047
+    "price": 0.8466
   },
   {
     "capacity": 22.01,
-    "price": 0.3079
+    "price": 0.8555
   },
   {
     "capacity": 22.11,
-    "price": 0.3111
+    "price": 0.8644
   },
   {
     "capacity": 22.21,
-    "price": 0.3144
+    "price": 0.8735
   },
   {
     "capacity": 22.31,
-    "price": 0.3177
+    "price": 0.8826
   },
   {
     "capacity": 22.41,
-    "price": 0.321
+    "price": 0.8919
   },
   {
     "capacity": 22.51,
-    "price": 0.3244
+    "price": 0.9012
   },
   {
     "capacity": 22.61,
-    "price": 0.3278
+    "price": 0.9107
   },
   {
     "capacity": 22.71,
-    "price": 0.3312
+    "price": 0.9202
   },
   {
     "capacity": 22.81,
-    "price": 0.3347
+    "price": 0.9298
   },
   {
     "capacity": 22.91,
-    "price": 0.3382
+    "price": 0.9396
   },
   {
     "capacity": 23.01,
-    "price": 0.3417
+    "price": 0.9494
   },
   {
     "capacity": 23.11,
-    "price": 0.3453
+    "price": 0.9594
   },
   {
     "capacity": 23.21,
-    "price": 0.3489
+    "price": 0.9694
   },
   {
     "capacity": 23.31,
-    "price": 0.3526
+    "price": 0.9796
   },
   {
     "capacity": 23.41,
-    "price": 0.3563
+    "price": 0.9898
   },
   {
     "capacity": 23.51,
-    "price": 0.36
+    "price": 1.0002
   },
   {
     "capacity": 23.61,
-    "price": 0.3638
+    "price": 1.0107
   },
   {
     "capacity": 23.71,
-    "price": 0.3676
+    "price": 1.0212
   },
   {
     "capacity": 23.81,
-    "price": 0.3714
+    "price": 1.0319
   },
   {
     "capacity": 23.91,
-    "price": 0.3753
+    "price": 1.0427
   },
   {
     "capacity": 24.01,
-    "price": 0.3792
+    "price": 1.0537
   },
   {
     "capacity": 24.11,
-    "price": 0.3832
+    "price": 1.0647
   },
   {
     "capacity": 24.21,
-    "price": 0.3872
+    "price": 1.0758
   },
   {
     "capacity": 24.31,
-    "price": 0.3913
+    "price": 1.0871
   },
   {
     "capacity": 24.41,
-    "price": 0.3954
+    "price": 1.0985
   },
   {
     "capacity": 24.51,
-    "price": 0.3995
+    "price": 1.11
   },
   {
     "capacity": 24.61,
-    "price": 0.4037
+    "price": 1.1216
   },
   {
     "capacity": 24.71,
-    "price": 0.4079
+    "price": 1.1334
   },
   {
     "capacity": 24.81,
-    "price": 0.4122
+    "price": 1.1452
   },
   {
     "capacity": 24.91,
-    "price": 0.4165
+    "price": 1.1572
   },
   {
     "capacity": 25.01,
-    "price": 0.4209
+    "price": 1.1694
   },
   {
     "capacity": 25.11,
-    "price": 0.4253
+    "price": 1.1816
   },
   {
     "capacity": 25.21,
-    "price": 0.4297
+    "price": 1.194
   },
   {
     "capacity": 25.31,
-    "price": 0.4342
+    "price": 1.2065
   },
   {
     "capacity": 25.41,
-    "price": 0.4388
+    "price": 1.2191
   },
   {
     "capacity": 25.51,
-    "price": 0.4434
+    "price": 1.2319
   },
   {
     "capacity": 25.61,
-    "price": 0.448
+    "price": 1.2448
   },
   {
     "capacity": 25.71,
-    "price": 0.4527
+    "price": 1.2578
   },
   {
     "capacity": 25.81,
-    "price": 0.4575
+    "price": 1.271
   },
   {
     "capacity": 25.91,
-    "price": 0.4622
+    "price": 1.2843
   },
   {
     "capacity": 26.01,
-    "price": 0.4671
+    "price": 1.2977
   },
   {
     "capacity": 26.11,
-    "price": 0.472
+    "price": 1.3113
   },
   {
     "capacity": 26.21,
-    "price": 0.4769
+    "price": 1.3251
   },
   {
     "capacity": 26.31,
-    "price": 0.4819
+    "price": 1.3389
   },
   {
     "capacity": 26.41,
-    "price": 0.487
+    "price": 1.353
   },
   {
     "capacity": 26.51,
-    "price": 0.4921
+    "price": 1.3671
   },
   {
     "capacity": 26.61,
-    "price": 0.4972
+    "price": 1.3815
   },
   {
     "capacity": 26.71,
-    "price": 0.5024
+    "price": 1.3959
   },
   {
     "capacity": 26.81,
-    "price": 0.5077
+    "price": 1.4105
   },
   {
     "capacity": 26.91,
-    "price": 0.513
+    "price": 1.4253
   },
   {
     "capacity": 27.01,
-    "price": 0.5184
+    "price": 1.4402
   },
   {
     "capacity": 27.11,
-    "price": 0.5238
+    "price": 1.4553
   },
   {
     "capacity": 27.21,
-    "price": 0.5293
+    "price": 1.4706
   },
   {
     "capacity": 27.31,
-    "price": 0.5348
+    "price": 1.486
   },
   {
     "capacity": 27.41,
-    "price": 0.5404
+    "price": 1.5015
   },
   {
     "capacity": 27.51,
-    "price": 0.5461
+    "price": 1.5172
   },
   {
     "capacity": 27.61,
-    "price": 0.5518
+    "price": 1.5331
   },
   {
     "capacity": 27.71,
-    "price": 0.5576
+    "price": 1.5492
   },
   {
     "capacity": 27.81,
-    "price": 0.5634
+    "price": 1.5654
   },
   {
     "capacity": 27.91,
-    "price": 0.5693
+    "price": 1.5818
   },
   {
     "capacity": 28.01,
-    "price": 0.5753
+    "price": 1.5984
   },
   {
     "capacity": 28.11,
-    "price": 0.5813
+    "price": 1.6151
   },
   {
     "capacity": 28.21,
-    "price": 0.5874
+    "price": 1.632
   },
   {
     "capacity": 28.31,
-    "price": 0.5935
+    "price": 1.6491
   },
   {
     "capacity": 28.41,
-    "price": 0.5998
+    "price": 1.6664
   },
   {
     "capacity": 28.51,
-    "price": 0.606
+    "price": 1.6838
   },
   {
     "capacity": 28.61,
-    "price": 0.6124
+    "price": 1.7015
   },
   {
     "capacity": 28.71,
-    "price": 0.6188
+    "price": 1.7193
   },
   {
     "capacity": 28.81,
-    "price": 0.6253
+    "price": 1.7373
   },
   {
     "capacity": 28.91,
-    "price": 0.6318
+    "price": 1.7555
   },
   {
     "capacity": 29.01,
-    "price": 0.6385
+    "price": 1.7739
   },
   {
     "capacity": 29.11,
-    "price": 0.6451
+    "price": 1.7925
   },
   {
     "capacity": 29.21,
-    "price": 0.6519
+    "price": 1.8112
   },
   {
     "capacity": 29.31,
-    "price": 0.6587
+    "price": 1.8302
   },
   {
     "capacity": 29.41,
-    "price": 0.6656
+    "price": 1.8494
   },
   {
     "capacity": 29.51,
-    "price": 0.6726
+    "price": 1.8687
   },
   {
     "capacity": 29.61,
-    "price": 0.6796
+    "price": 1.8883
   },
   {
     "capacity": 29.71,
-    "price": 0.6867
+    "price": 1.9081
   },
   {
     "capacity": 29.81,
-    "price": 0.6939
+    "price": 1.9281
   },
   {
     "capacity": 29.91,
-    "price": 0.7012
+    "price": 1.9482
   },
   {
     "capacity": 30.01,
-    "price": 0.7086
+    "price": 1.9686
   },
   {
     "capacity": 30.11,
-    "price": 0.716
+    "price": 1.9893
   },
   {
     "capacity": 30.21,
-    "price": 0.7235
+    "price": 2.0101
   },
   {
     "capacity": 30.31,
-    "price": 0.731
+    "price": 2.0311
   },
   {
     "capacity": 30.41,
-    "price": 0.7387
+    "price": 2.0524
   },
   {
     "capacity": 30.51,
-    "price": 0.7464
+    "price": 2.0739
   },
   {
     "capacity": 30.61,
-    "price": 0.7543
+    "price": 2.0956
   },
   {
     "capacity": 30.71,
-    "price": 0.7622
+    "price": 2.1176
   },
   {
     "capacity": 30.81,
-    "price": 0.7701
+    "price": 2.1398
   },
   {
     "capacity": 30.91,
-    "price": 0.7782
+    "price": 2.1622
   },
   {
     "capacity": 31.01,
-    "price": 0.7863
+    "price": 2.1848
   },
   {
     "capacity": 31.11,
-    "price": 0.7946
+    "price": 2.2077
   },
   {
     "capacity": 31.21,
-    "price": 0.8029
+    "price": 2.2308
   },
   {
     "capacity": 31.31,
-    "price": 0.8113
+    "price": 2.2542
   },
   {
     "capacity": 31.41,
-    "price": 0.8198
+    "price": 2.2778
   },
   {
     "capacity": 31.51,
-    "price": 0.8284
+    "price": 2.3016
   },
   {
     "capacity": 31.61,
-    "price": 0.8371
+    "price": 2.3257
   },
   {
     "capacity": 31.71,
-    "price": 0.8458
+    "price": 2.3501
   },
   {
     "capacity": 31.81,
-    "price": 0.8547
+    "price": 2.3747
   },
   {
     "capacity": 31.91,
-    "price": 0.8636
+    "price": 2.3996
   },
   {
     "capacity": 32.01,
-    "price": 0.8727
+    "price": 2.4247
   },
   {
     "capacity": 32.11,
-    "price": 0.8818
+    "price": 2.4501
   },
   {
     "capacity": 32.21,
-    "price": 0.8911
+    "price": 2.4757
   },
   {
     "capacity": 32.31,
-    "price": 0.9004
+    "price": 2.5017
   },
   {
     "capacity": 32.41,
-    "price": 0.9098
+    "price": 2.5279
   },
   {
     "capacity": 32.51,
-    "price": 0.9194
+    "price": 2.5543
   },
   {
     "capacity": 32.61,
-    "price": 0.929
+    "price": 2.5811
   },
   {
     "capacity": 32.71,
-    "price": 0.9387
+    "price": 2.6081
   },
   {
     "capacity": 32.81,
-    "price": 0.9485
+    "price": 2.6354
   },
   {
     "capacity": 32.91,
-    "price": 0.9585
+    "price": 2.663
   },
   {
     "capacity": 33.01,
-    "price": 0.9685
+    "price": 2.6909
   },
   {
     "capacity": 33.11,
-    "price": 0.9787
+    "price": 2.7191
   },
   {
     "capacity": 33.21,
-    "price": 0.9889
+    "price": 2.7476
   },
   {
     "capacity": 33.31,
-    "price": 0.9993
+    "price": 2.7763
   },
   {
     "capacity": 33.41,
-    "price": 1.0097
+    "price": 2.8054
   },
   {
     "capacity": 33.51,
-    "price": 1.0203
+    "price": 2.8348
   },
   {
     "capacity": 33.61,
-    "price": 1.031
+    "price": 2.8645
   },
   {
     "capacity": 33.71,
-    "price": 1.0418
+    "price": 2.8945
   },
   {
     "capacity": 33.81,
-    "price": 1.0527
+    "price": 2.9248
   },
   {
     "capacity": 33.91,
-    "price": 1.0637
+    "price": 2.9554
   },
   {
     "capacity": 34.01,
-    "price": 1.0749
+    "price": 2.9864
   },
   {
     "capacity": 34.11,
-    "price": 1.0861
+    "price": 3.0177
   },
   {
     "capacity": 34.21,
-    "price": 1.0975
+    "price": 3.0493
   },
   {
     "capacity": 34.31,
-    "price": 1.109
+    "price": 3.0812
   },
   {
     "capacity": 34.41,
-    "price": 1.1206
+    "price": 3.1135
   },
   {
     "capacity": 34.51,
-    "price": 1.1323
+    "price": 3.1461
   },
   {
     "capacity": 34.61,
-    "price": 1.1442
+    "price": 3.179
   },
   {
     "capacity": 34.71,
-    "price": 1.1562
+    "price": 3.2123
   },
   {
     "capacity": 34.81,
-    "price": 1.1683
+    "price": 3.2459
   },
   {
     "capacity": 34.91,
-    "price": 1.1805
+    "price": 3.2799
   },
   {
     "capacity": 35.01,
-    "price": 1.1929
+    "price": 3.3143
   },
   {
     "capacity": 35.11,
-    "price": 1.2054
+    "price": 3.349
   },
   {
     "capacity": 35.21,
-    "price": 1.218
+    "price": 3.3841
   },
   {
     "capacity": 35.31,
-    "price": 1.2307
+    "price": 3.4195
   },
   {
     "capacity": 35.41,
-    "price": 1.2436
+    "price": 3.4553
   },
   {
     "capacity": 35.51,
-    "price": 1.2567
+    "price": 3.4915
   },
   {
     "capacity": 35.61,
-    "price": 1.2698
+    "price": 3.5281
   },
   {
     "capacity": 35.71,
-    "price": 1.2831
+    "price": 3.565
   },
   {
     "capacity": 35.81,
-    "price": 1.2965
+    "price": 3.6023
   },
   {
     "capacity": 35.91,
-    "price": 1.3101
+    "price": 3.6401
   },
   {
     "capacity": 36.01,
-    "price": 1.3238
+    "price": 3.6782
   },
   {
     "capacity": 36.11,
-    "price": 1.3377
+    "price": 3.7167
   },
   {
     "capacity": 36.21,
-    "price": 1.3517
+    "price": 3.7556
   },
   {
     "capacity": 36.31,
-    "price": 1.3659
+    "price": 3.795
   },
   {
     "capacity": 36.41,
-    "price": 1.3802
+    "price": 3.8347
   },
   {
     "capacity": 36.51,
-    "price": 1.3946
+    "price": 3.8749
   },
   {
     "capacity": 36.61,
-    "price": 1.4092
+    "price": 3.9154
   },
   {
     "capacity": 36.71,
-    "price": 1.424
+    "price": 3.9564
   },
   {
     "capacity": 36.81,
-    "price": 1.4389
+    "price": 3.9979
   },
   {
     "capacity": 36.91,
-    "price": 1.454
+    "price": 4.0397
   },
   {
     "capacity": 37.01,
-    "price": 1.4692
+    "price": 4.082
   },
   {
     "capacity": 37.11,
-    "price": 1.4846
+    "price": 4.1248
   },
   {
     "capacity": 37.21,
-    "price": 1.5001
+    "price": 4.168
   },
   {
     "capacity": 37.31,
-    "price": 1.5158
+    "price": 4.2116
   },
   {
     "capacity": 37.41,
-    "price": 1.5317
+    "price": 4.2557
   },
   {
     "capacity": 37.51,
-    "price": 1.5478
+    "price": 4.3003
   },
   {
     "capacity": 37.61,
-    "price": 1.564
+    "price": 4.3453
   },
   {
     "capacity": 37.71,
-    "price": 1.5803
+    "price": 4.3908
   },
   {
     "capacity": 37.81,
-    "price": 1.5969
+    "price": 4.4368
   },
   {
     "capacity": 37.91,
-    "price": 1.6136
+    "price": 4.4833
   },
   {
     "capacity": 38.01,
-    "price": 1.6305
+    "price": 4.5302
   },
   {
     "capacity": 38.11,
-    "price": 1.6476
+    "price": 4.5777
   },
   {
     "capacity": 38.21,
-    "price": 1.6648
+    "price": 4.6256
   },
   {
     "capacity": 38.31,
-    "price": 1.6823
+    "price": 4.6741
   },
   {
     "capacity": 38.41,
-    "price": 1.6999
+    "price": 4.723
   },
   {
     "capacity": 38.51,
-    "price": 1.7177
+    "price": 4.7725
   },
   {
     "capacity": 38.61,
-    "price": 1.7357
+    "price": 4.8225
   },
   {
     "capacity": 38.71,
-    "price": 1.7539
+    "price": 4.873
   },
   {
     "capacity": 38.81,
-    "price": 1.7722
+    "price": 4.924
   },
   {
     "capacity": 38.91,
-    "price": 1.7908
+    "price": 4.9756
   },
   {
     "capacity": 39.01,
-    "price": 1.8095
+    "price": 5.0277
   },
   {
     "capacity": 39.11,
-    "price": 1.8285
+    "price": 5.0803
   },
   {
     "capacity": 39.21,
-    "price": 1.8476
+    "price": 5.1335
   },
   {
     "capacity": 39.31,
-    "price": 1.867
+    "price": 5.1873
   },
   {
     "capacity": 39.41,
-    "price": 1.8865
+    "price": 5.2416
   },
   {
     "capacity": 39.51,
-    "price": 1.9063
+    "price": 5.2965
   },
   {
     "capacity": 39.61,
-    "price": 1.9263
+    "price": 5.352
   },
   {
     "capacity": 39.71,
-    "price": 1.9464
+    "price": 5.408
   },
   {
     "capacity": 39.81,
-    "price": 1.9668
+    "price": 5.4646
   },
   {
     "capacity": 39.91,
-    "price": 1.9874
+    "price": 5.5219
   },
   {
     "capacity": 40.01,
-    "price": 2.0082
+    "price": 5.5797
   },
   {
     "capacity": 40.11,
-    "price": 2.0293
+    "price": 5.6381
   },
   {
     "capacity": 40.21,
-    "price": 2.0505
+    "price": 5.6972
   },
   {
     "capacity": 40.31,
-    "price": 2.072
+    "price": 5.7568
   },
   {
     "capacity": 40.41,
-    "price": 2.0937
+    "price": 5.8171
   },
   {
     "capacity": 40.51,
-    "price": 2.1156
+    "price": 5.878
   },
   {
     "capacity": 40.61,
-    "price": 2.1378
+    "price": 5.9396
   },
   {
     "capacity": 40.71,
-    "price": 2.1602
+    "price": 6.0018
   },
   {
     "capacity": 40.81,
-    "price": 2.1828
+    "price": 6.0647
   },
   {
     "capacity": 40.91,
-    "price": 2.2056
+    "price": 6.1282
   },
   {
     "capacity": 41.01,
-    "price": 2.2287
+    "price": 6.1923
   },
   {
     "capacity": 41.11,
-    "price": 2.2521
+    "price": 6.2572
   },
   {
     "capacity": 41.21,
-    "price": 2.2757
+    "price": 6.3227
   },
   {
     "capacity": 41.31,
-    "price": 2.2995
+    "price": 6.3889
   },
   {
     "capacity": 41.41,
-    "price": 2.3236
+    "price": 6.4558
   },
   {
     "capacity": 41.51,
-    "price": 2.3479
+    "price": 6.5234
   },
   {
     "capacity": 41.61,
-    "price": 2.3725
+    "price": 6.5918
   },
   {
     "capacity": 41.71,
-    "price": 2.3973
+    "price": 6.6608
   },
   {
     "capacity": 41.81,
-    "price": 2.4224
+    "price": 6.7305
   },
   {
     "capacity": 41.91,
-    "price": 2.4478
+    "price": 6.801
   },
   {
     "capacity": 42.01,
-    "price": 2.4734
+    "price": 6.8722
   },
   {
     "capacity": 42.11,
-    "price": 2.4994
+    "price": 6.9442
   },
   {
     "capacity": 42.21,
-    "price": 2.5255
+    "price": 7.0169
   },
   {
     "capacity": 42.31,
-    "price": 2.552
+    "price": 7.0904
   },
   {
     "capacity": 42.41,
-    "price": 2.5787
+    "price": 7.1647
   },
   {
     "capacity": 42.51,
-    "price": 2.6057
+    "price": 7.2397
   },
   {
     "capacity": 42.61,
-    "price": 2.633
+    "price": 7.3155
   },
   {
     "capacity": 42.71,
-    "price": 2.6606
+    "price": 7.3921
   },
   {
     "capacity": 42.81,
-    "price": 2.6884
+    "price": 7.4695
   },
   {
     "capacity": 42.91,
-    "price": 2.7166
+    "price": 7.5478
   },
   {
     "capacity": 43.01,
-    "price": 2.745
+    "price": 7.6268
   },
   {
     "capacity": 43.11,
-    "price": 2.7738
+    "price": 7.7067
   },
   {
     "capacity": 43.21,
-    "price": 2.8028
+    "price": 7.7874
   },
   {
     "capacity": 43.31,
-    "price": 2.8322
+    "price": 7.8689
   },
   {
     "capacity": 43.41,
-    "price": 2.8618
+    "price": 7.9514
   },
   {
     "capacity": 43.51,
-    "price": 2.8918
+    "price": 8.0346
   },
   {
     "capacity": 43.61,
-    "price": 2.9221
+    "price": 8.1188
   },
   {
     "capacity": 43.71,
-    "price": 2.9527
+    "price": 8.2038
   },
   {
     "capacity": 43.81,
-    "price": 2.9836
+    "price": 8.2897
   },
   {
     "capacity": 43.91,
-    "price": 3.0149
+    "price": 8.3765
   },
   {
     "capacity": 44.01,
-    "price": 3.0464
+    "price": 8.4642
   },
   {
     "capacity": 44.11,
-    "price": 3.0783
+    "price": 8.5529
   },
   {
     "capacity": 44.21,
-    "price": 3.1106
+    "price": 8.6424
   },
   {
     "capacity": 44.31,
-    "price": 3.1431
+    "price": 8.7329
   },
   {
     "capacity": 44.41,
-    "price": 3.1761
+    "price": 8.8244
   },
   {
     "capacity": 44.51,
-    "price": 3.2093
+    "price": 8.9168
   },
   {
     "capacity": 44.61,
-    "price": 3.2429
+    "price": 9.0102
   },
   {
     "capacity": 44.71,
-    "price": 3.2769
+    "price": 9.1045
   },
   {
     "capacity": 44.81,
-    "price": 3.3112
+    "price": 9.1999
   },
   {
     "capacity": 44.91,
-    "price": 3.3459
+    "price": 9.2962
   },
   {
     "capacity": 45.01,
-    "price": 3.3809
+    "price": 9.3936
   },
   {
     "capacity": 45.11,
-    "price": 3.4163
+    "price": 9.492
   },
   {
     "capacity": 45.21,
-    "price": 3.4521
+    "price": 9.5914
   },
   {
     "capacity": 45.31,
-    "price": 3.4883
+    "price": 9.6918
   },
   {
     "capacity": 45.41,
-    "price": 3.5248
+    "price": 9.7933
   },
   {
     "capacity": 45.51,
-    "price": 3.5617
+    "price": 9.8959
   },
   {
     "capacity": 45.61,
-    "price": 3.599
+    "price": 9.9995
   },
   {
     "capacity": 45.71,
-    "price": 3.6367
+    "price": 10.1042
   },
   {
     "capacity": 45.81,
-    "price": 3.6748
+    "price": 10.21
   },
   {
     "capacity": 45.91,
-    "price": 3.7133
+    "price": 10.317
   },
   {
     "capacity": 46.01,
-    "price": 3.7521
+    "price": 10.425
   },
   {
     "capacity": 46.11,
-    "price": 3.7914
+    "price": 10.5342
   },
   {
     "capacity": 46.21,
-    "price": 3.8311
+    "price": 10.6445
   },
   {
     "capacity": 46.31,
-    "price": 3.8713
+    "price": 10.756
   },
   {
     "capacity": 46.41,
-    "price": 3.9118
+    "price": 10.8686
   },
   {
     "capacity": 46.51,
-    "price": 3.9528
+    "price": 10.9824
   },
   {
     "capacity": 46.61,
-    "price": 3.9942
+    "price": 11.0974
   },
   {
     "capacity": 46.71,
-    "price": 4.036
+    "price": 11.2136
   },
   {
     "capacity": 46.81,
-    "price": 4.0783
+    "price": 11.3311
   },
   {
     "capacity": 46.91,
-    "price": 4.121
+    "price": 11.4497
   },
   {
     "capacity": 47.01,
-    "price": 4.1641
+    "price": 11.5697
   },
   {
     "capacity": 47.11,
-    "price": 4.2077
+    "price": 11.6908
   },
   {
     "capacity": 47.21,
-    "price": 4.2518
+    "price": 11.8132
   },
   {
     "capacity": 47.31,
-    "price": 4.2963
+    "price": 11.937
   },
   {
     "capacity": 47.41,
-    "price": 4.3413
+    "price": 12.062
   },
   {
     "capacity": 47.51,
-    "price": 4.3868
+    "price": 12.1883
   },
   {
     "capacity": 47.61,
-    "price": 4.4327
+    "price": 12.3159
   },
   {
     "capacity": 47.71,
-    "price": 4.4791
+    "price": 12.4449
   },
   {
     "capacity": 47.81,
-    "price": 4.5261
+    "price": 12.5752
   },
   {
     "capacity": 47.91,
-    "price": 4.5734
+    "price": 12.7069
   },
   {
     "capacity": 48.01,
-    "price": 4.6213
+    "price": 12.84
   },
   {
     "capacity": 48.11,
-    "price": 4.6697
+    "price": 12.9745
   },
   {
     "capacity": 48.21,
-    "price": 4.7186
+    "price": 13.1103
   },
   {
     "capacity": 48.31,
-    "price": 4.7681
+    "price": 13.2476
   },
   {
     "capacity": 48.41,
-    "price": 4.818
+    "price": 13.3864
   },
   {
     "capacity": 48.51,
-    "price": 4.8684
+    "price": 13.5265
   },
   {
     "capacity": 48.61,
-    "price": 4.9194
+    "price": 13.6682
   },
   {
     "capacity": 48.71,
-    "price": 4.9709
+    "price": 13.8113
   },
   {
     "capacity": 48.81,
-    "price": 5.023
+    "price": 13.956
   },
   {
     "capacity": 48.91,
-    "price": 5.0756
+    "price": 14.1021
   },
   {
     "capacity": 49.01,
-    "price": 5.1288
+    "price": 14.2498
   },
   {
     "capacity": 49.11,
-    "price": 5.1825
+    "price": 14.399
   },
   {
     "capacity": 49.21,
-    "price": 5.2367
+    "price": 14.5498
   },
   {
     "capacity": 49.31,
-    "price": 5.2916
+    "price": 14.7022
   },
   {
     "capacity": 49.41,
-    "price": 5.347
+    "price": 14.8562
   },
   {
     "capacity": 49.51,
-    "price": 5.403
+    "price": 15.0117
   },
   {
     "capacity": 49.61,
-    "price": 5.4596
+    "price": 15.1689
   },
   {
     "capacity": 49.71,
-    "price": 5.5168
+    "price": 15.3278
   },
   {
     "capacity": 49.81,
-    "price": 5.5745
+    "price": 15.4883
   },
   {
     "capacity": 49.91,
-    "price": 5.6329
+    "price": 15.6505
   },
   {
     "capacity": 50.01,
-    "price": 5.6919
+    "price": 15.8144
   },
   {
     "capacity": 50.11,
-    "price": 5.7515
+    "price": 15.98
   },
   {
     "capacity": 50.21,
-    "price": 5.8117
+    "price": 16.1474
   },
   {
     "capacity": 50.31,
-    "price": 5.8726
+    "price": 16.3165
   },
   {
     "capacity": 50.41,
-    "price": 5.9341
+    "price": 16.4873
   },
   {
     "capacity": 50.51,
-    "price": 5.9962
+    "price": 16.66
   },
   {
     "capacity": 50.61,
-    "price": 6.059
+    "price": 16.8345
   },
   {
     "capacity": 50.71,
-    "price": 6.1225
+    "price": 17.0108
   },
   {
     "capacity": 50.81,
-    "price": 6.1866
+    "price": 17.1889
   },
   {
     "capacity": 50.91,
-    "price": 6.2514
+    "price": 17.3689
   },
   {
     "capacity": 51.01,
-    "price": 6.3169
+    "price": 17.5508
   },
   {
     "capacity": 51.11,
-    "price": 6.383
+    "price": 17.7346
   },
   {
     "capacity": 51.21,
-    "price": 6.4499
+    "price": 17.9203
   },
   {
     "capacity": 51.31,
-    "price": 6.5174
+    "price": 18.108
   },
   {
     "capacity": 51.41,
-    "price": 6.5857
+    "price": 18.2976
   },
   {
     "capacity": 51.51,
-    "price": 6.6546
+    "price": 18.4893
   },
   {
     "capacity": 51.61,
-    "price": 6.7243
+    "price": 18.6829
   },
   {
     "capacity": 51.71,
-    "price": 6.7947
+    "price": 18.8785
   },
   {
     "capacity": 51.81,
-    "price": 6.8659
+    "price": 19.0762
   },
   {
     "capacity": 51.91,
-    "price": 6.9378
+    "price": 19.276
   },
   {
     "capacity": 52.01,
-    "price": 7.0104
+    "price": 19.4779
   },
   {
     "capacity": 52.11,
-    "price": 7.0839
+    "price": 19.6819
   },
   {
     "capacity": 52.21,
-    "price": 7.158
+    "price": 19.888
   },
   {
     "capacity": 52.31,
-    "price": 7.233
+    "price": 20.0962
   },
   {
     "capacity": 52.41,
-    "price": 7.3088
+    "price": 20.3067
   },
   {
     "capacity": 52.51,
-    "price": 7.3853
+    "price": 20.5194
   },
   {
     "capacity": 52.61,
-    "price": 7.4626
+    "price": 20.7342
   },
   {
     "capacity": 52.71,
-    "price": 7.5408
+    "price": 20.9514
   },
   {
     "capacity": 52.81,
-    "price": 7.6198
+    "price": 21.1708
   },
   {
     "capacity": 52.91,
-    "price": 7.6995
+    "price": 21.3925
   },
   {
     "capacity": 53.01,
-    "price": 7.7802
+    "price": 21.6165
   },
   {
     "capacity": 53.11,
-    "price": 7.8617
+    "price": 21.8429
   },
   {
     "capacity": 53.21,
-    "price": 7.944
+    "price": 22.0716
   },
   {
     "capacity": 53.31,
-    "price": 8.0272
+    "price": 22.3028
   },
   {
     "capacity": 53.41,
-    "price": 8.1112
+    "price": 22.5363
   },
   {
     "capacity": 53.51,
-    "price": 8.1962
+    "price": 22.7724
   },
   {
     "capacity": 53.61,
-    "price": 8.282
+    "price": 23.0108
   },
   {
     "capacity": 53.71,
-    "price": 8.3688
+    "price": 23.2518
   },
   {
     "capacity": 53.81,
-    "price": 8.4564
+    "price": 23.4953
   },
   {
     "capacity": 53.91,
-    "price": 8.545
+    "price": 23.7414
   },
   {
     "capacity": 54.01,
-    "price": 8.6344
+    "price": 23.99
   },
   {
     "capacity": 54.11,
-    "price": 8.7249
+    "price": 24.2412
   },
   {
     "capacity": 54.21,
-    "price": 8.8162
+    "price": 24.4951
   },
   {
     "capacity": 54.31,
-    "price": 8.9086
+    "price": 24.7516
   },
   {
     "capacity": 54.41,
-    "price": 9.0018
+    "price": 25.0108
   },
   {
     "capacity": 54.51,
-    "price": 9.0961
+    "price": 25.2727
   },
   {
     "capacity": 54.61,
-    "price": 9.1914
+    "price": 25.5374
   },
   {
     "capacity": 54.71,
-    "price": 9.2876
+    "price": 25.8048
   },
   {
     "capacity": 54.81,
-    "price": 9.3849
+    "price": 26.0751
   },
   {
     "capacity": 54.91,
-    "price": 9.4832
+    "price": 26.3481
   },
   {
     "capacity": 55.01,
-    "price": 9.5825
+    "price": 26.6241
   },
   {
     "capacity": 55.11,
-    "price": 9.6828
+    "price": 26.9029
   },
   {
     "capacity": 55.21,
-    "price": 9.7842
+    "price": 27.1846
   },
   {
     "capacity": 55.31,
-    "price": 9.8867
+    "price": 27.4693
   },
   {
     "capacity": 55.41,
-    "price": 9.9902
+    "price": 27.757
   },
   {
     "capacity": 55.51,
-    "price": 10.0949
+    "price": 28.0477
   },
   {
     "capacity": 55.61,
-    "price": 10.2006
+    "price": 28.3414
   },
   {
     "capacity": 55.71,
-    "price": 10.3074
+    "price": 28.6382
   },
   {
     "capacity": 55.81,
-    "price": 10.4153
+    "price": 28.9381
   },
   {
     "capacity": 55.91,
-    "price": 10.5244
+    "price": 29.2411
   },
   {
     "capacity": 56.01,
-    "price": 10.6346
+    "price": 29.5474
   },
   {
     "capacity": 56.11,
-    "price": 10.746
+    "price": 29.8568
   },
   {
     "capacity": 56.21,
-    "price": 10.8585
+    "price": 30.1695
   },
   {
     "capacity": 56.31,
-    "price": 10.9723
+    "price": 30.4854
   },
   {
     "capacity": 56.41,
-    "price": 11.0872
+    "price": 30.8047
   },
   {
     "capacity": 56.51,
-    "price": 11.2033
+    "price": 31.1273
   },
   {
     "capacity": 56.61,
-    "price": 11.3206
+    "price": 31.4532
   },
   {
     "capacity": 56.71,
-    "price": 11.4391
+    "price": 31.7826
   },
   {
     "capacity": 56.81,
-    "price": 11.5589
+    "price": 32.1155
   },
   {
     "capacity": 56.91,
-    "price": 11.68
+    "price": 32.4518
   },
   {
     "capacity": 57.01,
-    "price": 11.8023
+    "price": 32.7916
   },
   {
     "capacity": 57.11,
-    "price": 11.9259
+    "price": 33.135
   },
   {
     "capacity": 57.21,
-    "price": 12.0508
+    "price": 33.482
   },
   {
     "capacity": 57.31,
-    "price": 12.177
+    "price": 33.8327
   },
   {
     "capacity": 57.41,
-    "price": 12.3045
+    "price": 34.187
   },
   {
     "capacity": 57.51,
-    "price": 12.4334
+    "price": 34.545
   },
   {
     "capacity": 57.61,
-    "price": 12.5636
+    "price": 34.9068
   },
   {
     "capacity": 57.71,
-    "price": 12.6951
+    "price": 35.2723
   },
   {
     "capacity": 57.81,
-    "price": 12.8281
+    "price": 35.6417
   },
   {
     "capacity": 57.91,
-    "price": 12.9624
+    "price": 36.0149
   },
   {
     "capacity": 58.01,
-    "price": 13.0982
+    "price": 36.3921
   },
   {
     "capacity": 58.11,
-    "price": 13.2354
+    "price": 36.7732
   },
   {
     "capacity": 58.21,
-    "price": 13.374
+    "price": 37.1583
   },
   {
     "capacity": 58.31,
-    "price": 13.514
+    "price": 37.5475
   },
   {
     "capacity": 58.41,
-    "price": 13.6555
+    "price": 37.9407
   },
   {
     "capacity": 58.51,
-    "price": 13.7985
+    "price": 38.338
   },
   {
     "capacity": 58.61,
-    "price": 13.943
+    "price": 38.7395
   },
   {
     "capacity": 58.71,
-    "price": 14.0891
+    "price": 39.1452
   },
   {
     "capacity": 58.81,
-    "price": 14.2366
+    "price": 39.5551
   },
   {
     "capacity": 58.91,
-    "price": 14.3857
+    "price": 39.9693
   },
   {
     "capacity": 59.01,
-    "price": 14.5363
+    "price": 40.3879
   },
   {
     "capacity": 59.11,
-    "price": 14.6886
+    "price": 40.8109
   },
   {
     "capacity": 59.21,
-    "price": 14.8424
+    "price": 41.2383
   },
   {
     "capacity": 59.31,
-    "price": 14.9978
+    "price": 41.6701
   },
   {
     "capacity": 59.41,
-    "price": 15.1549
+    "price": 42.1065
   },
   {
     "capacity": 59.51,
-    "price": 15.3136
+    "price": 42.5475
   },
   {
     "capacity": 59.61,
-    "price": 15.474
+    "price": 42.993
   },
   {
     "capacity": 59.71,
-    "price": 15.636
+    "price": 43.4433
   },
   {
     "capacity": 59.81,
-    "price": 15.7998
+    "price": 43.8982
   },
   {
     "capacity": 59.91,
-    "price": 15.9652
+    "price": 44.3579
   },
   {
     "capacity": 60.01,
-    "price": 16.1324
+    "price": 44.8225
   },
   {
     "capacity": 60.11,
-    "price": 16.3014
+    "price": 45.2919
   },
   {
     "capacity": 60.21,
-    "price": 16.4721
+    "price": 45.7662
   },
   {
     "capacity": 60.31,
-    "price": 16.6446
+    "price": 46.2455
   },
   {
     "capacity": 60.41,
-    "price": 16.8189
+    "price": 46.7297
   },
   {
     "capacity": 60.51,
-    "price": 16.995
+    "price": 47.2191
   },
   {
     "capacity": 60.61,
-    "price": 17.173
+    "price": 47.7136
   },
   {
     "capacity": 60.71,
-    "price": 17.3528
+    "price": 48.2133
   },
   {
     "capacity": 60.81,
-    "price": 17.5346
+    "price": 48.7182
   },
   {
     "capacity": 60.91,
-    "price": 17.7182
+    "price": 49.2284
   },
   {
     "capacity": 61.01,
-    "price": 17.9037
+    "price": 49.7439
   },
   {
     "capacity": 61.11,
-    "price": 18.0912
+    "price": 50.2649
   },
   {
     "capacity": 61.21,
-    "price": 18.2807
+    "price": 50.7912
   },
   {
     "capacity": 61.31,
-    "price": 18.4721
+    "price": 51.3231
   },
   {
     "capacity": 61.41,
-    "price": 18.6656
+    "price": 51.8606
   },
   {
     "capacity": 61.51,
-    "price": 18.8611
+    "price": 52.4037
   },
   {
     "capacity": 61.61,
-    "price": 19.0586
+    "price": 52.9525
   },
   {
     "capacity": 61.71,
-    "price": 19.2582
+    "price": 53.507
   },
   {
     "capacity": 61.81,
-    "price": 19.4598
+    "price": 54.0674
   },
   {
     "capacity": 61.91,
-    "price": 19.6636
+    "price": 54.6336
   },
   {
     "capacity": 62.01,
-    "price": 19.8696
+    "price": 55.2057
   },
   {
     "capacity": 62.11,
-    "price": 20.0776
+    "price": 55.7839
   },
   {
     "capacity": 62.21,
-    "price": 20.2879
+    "price": 56.3681
   },
   {
     "capacity": 62.31,
-    "price": 20.5004
+    "price": 56.9584
   },
   {
     "capacity": 62.41,
-    "price": 20.715
+    "price": 57.5549
   },
   {
     "capacity": 62.51,
-    "price": 20.932
+    "price": 58.1576
   },
   {
     "capacity": 62.61,
-    "price": 21.1512
+    "price": 58.7666
   },
   {
     "capacity": 62.71,
-    "price": 21.3727
+    "price": 59.3821
   },
   {
     "capacity": 62.81,
-    "price": 21.5965
+    "price": 60.0039
   },
   {
     "capacity": 62.91,
-    "price": 21.8227
+    "price": 60.6323
   },
   {
     "capacity": 63.01,
-    "price": 22.0512
+    "price": 61.2673
   },
   {
     "capacity": 63.11,
-    "price": 22.2821
+    "price": 61.9089
   },
   {
     "capacity": 63.21,
-    "price": 22.5155
+    "price": 62.5572
   },
   {
     "capacity": 63.31,
-    "price": 22.7513
+    "price": 63.2123
   },
   {
     "capacity": 63.41,
-    "price": 22.9895
+    "price": 63.8743
   },
   {
     "capacity": 63.51,
-    "price": 23.2303
+    "price": 64.5432
   },
   {
     "capacity": 63.61,
-    "price": 23.4736
+    "price": 65.2191
   },
   {
     "capacity": 63.71,
-    "price": 23.7194
+    "price": 65.9021
   },
   {
     "capacity": 63.81,
-    "price": 23.9678
+    "price": 66.5923
   },
   {
     "capacity": 63.91,
-    "price": 24.2188
+    "price": 67.2897
   },
   {
     "capacity": 64.01,
-    "price": 24.4724
+    "price": 67.9943
   },
   {
     "capacity": 64.11,
-    "price": 24.7287
+    "price": 68.7064
   },
   {
     "capacity": 64.21,
-    "price": 24.9877
+    "price": 69.4259
   },
   {
     "capacity": 64.31,
-    "price": 25.2493
+    "price": 70.153
   },
   {
     "capacity": 64.41,
-    "price": 25.5138
+    "price": 70.8876
   },
   {
     "capacity": 64.51,
-    "price": 25.7809
+    "price": 71.63
   },
   {
     "capacity": 64.61,
-    "price": 26.0509
+    "price": 72.3801
   },
   {
     "capacity": 64.71,
-    "price": 26.3237
+    "price": 73.1381
   },
   {
     "capacity": 64.81,
-    "price": 26.5994
+    "price": 73.904
   },
   {
     "capacity": 64.91,
-    "price": 26.878
+    "price": 74.678
   },
   {
     "capacity": 65.01,
-    "price": 27.1594
+    "price": 75.46
   },
   {
     "capacity": 65.11,
-    "price": 27.4439
+    "price": 76.2503
   },
   {
     "capacity": 65.21,
-    "price": 27.7313
+    "price": 77.0488
   },
   {
     "capacity": 65.31,
-    "price": 28.0217
+    "price": 77.8557
   },
   {
     "capacity": 65.41,
-    "price": 28.3151
+    "price": 78.671
   },
   {
     "capacity": 65.51,
-    "price": 28.6117
+    "price": 79.4949
   },
   {
     "capacity": 65.61,
-    "price": 28.9113
+    "price": 80.3274
   },
   {
     "capacity": 65.71,
-    "price": 29.2141
+    "price": 81.1686
   },
   {
     "capacity": 65.81,
-    "price": 29.52
+    "price": 82.0186
   },
   {
     "capacity": 65.91,
-    "price": 29.8291
+    "price": 82.8776
   },
   {
     "capacity": 66.01,
-    "price": 30.1415
+    "price": 83.7455
   },
   {
     "capacity": 66.11,
-    "price": 30.4572
+    "price": 84.6225
   },
   {
     "capacity": 66.21,
-    "price": 30.7761
+    "price": 85.5087
   },
   {
     "capacity": 66.31,
-    "price": 31.0984
+    "price": 86.4042
   },
   {
     "capacity": 66.41,
-    "price": 31.4241
+    "price": 87.309
   },
   {
     "capacity": 66.51,
-    "price": 31.7532
+    "price": 88.2233
   },
   {
     "capacity": 66.61,
-    "price": 32.0857
+    "price": 89.1472
   },
   {
     "capacity": 66.71,
-    "price": 32.4217
+    "price": 90.0808
   },
   {
     "capacity": 66.81,
-    "price": 32.7613
+    "price": 91.0242
   },
   {
     "capacity": 66.91,
-    "price": 33.1043
+    "price": 91.9774
   },
   {
     "capacity": 67.01,
-    "price": 33.451
+    "price": 92.9406
   },
   {
     "capacity": 67.11,
-    "price": 33.8013
+    "price": 93.9139
   },
   {
     "capacity": 67.21,
-    "price": 34.1553
+    "price": 94.8974
   },
   {
     "capacity": 67.31,
-    "price": 34.513
+    "price": 95.8912
   },
   {
     "capacity": 67.41,
-    "price": 34.8744
+    "price": 96.8954
   },
   {
     "capacity": 67.51,
-    "price": 35.2396
+    "price": 97.9102
   },
   {
     "capacity": 67.61,
-    "price": 35.6087
+    "price": 98.9355
   },
   {
     "capacity": 67.71,
-    "price": 35.9816
+    "price": 99.9716
   },
   {
     "capacity": 67.81,
-    "price": 36.3584
+    "price": 101.0185
   },
   {
     "capacity": 67.91,
-    "price": 36.7392
+    "price": 102.0764
   },
   {
     "capacity": 68.01,
-    "price": 37.1239
+    "price": 103.1454
   },
   {
     "capacity": 68.11,
-    "price": 37.5127
+    "price": 104.2256
   },
   {
     "capacity": 68.21,
-    "price": 37.9055
+    "price": 105.3171
   },
   {
     "capacity": 68.31,
-    "price": 38.3025
+    "price": 106.42
   },
   {
     "capacity": 68.41,
-    "price": 38.7036
+    "price": 107.5344
   },
   {
     "capacity": 68.51,
-    "price": 39.1089
+    "price": 108.6606
   },
   {
     "capacity": 68.61,
-    "price": 39.5185
+    "price": 109.7985
   },
   {
     "capacity": 68.71,
-    "price": 39.9323
+    "price": 110.9484
   },
   {
     "capacity": 68.81,
-    "price": 40.3505
+    "price": 112.1102
   },
   {
     "capacity": 68.91,
-    "price": 40.7731
+    "price": 113.2843
   },
   {
     "capacity": 69.01,
-    "price": 41.2001
+    "price": 114.4706
   },
   {
     "capacity": 69.11,
-    "price": 41.6315
+    "price": 115.6694
   },
   {
     "capacity": 69.21,
-    "price": 42.0675
+    "price": 116.8807
   },
   {
     "capacity": 69.31,
-    "price": 42.5081
+    "price": 118.1048
   },
   {
     "capacity": 69.41,
-    "price": 42.9532
+    "price": 119.3416
   },
   {
     "capacity": 69.51,
-    "price": 43.403
+    "price": 120.5914
   },
   {
     "capacity": 69.61,
-    "price": 43.8576
+    "price": 121.8543
   },
   {
     "capacity": 69.71,
-    "price": 44.3169
+    "price": 123.1304
   },
   {
     "capacity": 69.81,
-    "price": 44.781
+    "price": 124.4198
   },
   {
     "capacity": 69.91,
-    "price": 45.2499
+    "price": 125.7228
   },
   {
     "capacity": 70.01,
-    "price": 45.7238
+    "price": 127.0394
   },
   {
     "capacity": 70.11,
-    "price": 46.2026
+    "price": 128.3698
   },
   {
     "capacity": 70.21,
-    "price": 46.6865
+    "price": 129.7141
   },
   {
     "capacity": 70.31,
-    "price": 47.1754
+    "price": 131.0725
   },
   {
     "capacity": 70.41,
-    "price": 47.6694
+    "price": 132.4452
   },
   {
     "capacity": 70.51,
-    "price": 48.1686
+    "price": 133.8322
   },
   {
     "capacity": 70.61,
-    "price": 48.6731
+    "price": 135.2337
   },
   {
     "capacity": 70.71,
-    "price": 49.1828
+    "price": 136.6499
   },
   {
     "capacity": 70.81,
-    "price": 49.6979
+    "price": 138.081
   },
   {
     "capacity": 70.91,
-    "price": 50.2183
+    "price": 139.527
   },
   {
     "capacity": 71.01,
-    "price": 50.7442
+    "price": 140.9882
   },
   {
     "capacity": 71.11,
-    "price": 51.2756
+    "price": 142.4646
   },
   {
     "capacity": 71.21,
-    "price": 51.8126
+    "price": 143.9566
   },
   {
     "capacity": 71.31,
-    "price": 52.3552
+    "price": 145.4641
   },
   {
     "capacity": 71.41,
-    "price": 52.9035
+    "price": 146.9875
   },
   {
     "capacity": 71.51,
-    "price": 53.4575
+    "price": 148.5268
   },
   {
     "capacity": 71.61,
-    "price": 54.0173
+    "price": 150.0822
   },
   {
     "capacity": 71.71,
-    "price": 54.583
+    "price": 151.6539
   },
   {
     "capacity": 71.81,
-    "price": 55.1546
+    "price": 153.2421
   },
   {
     "capacity": 71.91,
-    "price": 55.7322
+    "price": 154.8469
   },
   {
     "capacity": 72.01,
-    "price": 56.3159
+    "price": 156.4685
   },
   {
     "capacity": 72.11,
-    "price": 56.9056
+    "price": 158.1071
   },
   {
     "capacity": 72.21,
-    "price": 57.5016
+    "price": 159.7628
   },
   {
     "capacity": 72.31,
-    "price": 58.1037
+    "price": 161.4359
   },
   {
     "capacity": 72.41,
-    "price": 58.7122
+    "price": 163.1265
   },
   {
     "capacity": 72.51,
-    "price": 59.3271
+    "price": 164.8349
   },
   {
     "capacity": 72.61,
-    "price": 59.9484
+    "price": 166.5611
   },
   {
     "capacity": 72.71,
-    "price": 60.5762
+    "price": 168.3054
   },
   {
     "capacity": 72.81,
-    "price": 61.2105
+    "price": 170.0679
   },
   {
     "capacity": 72.91,
-    "price": 61.8516
+    "price": 171.8489
   },
   {
     "capacity": 73.01,
-    "price": 62.4993
+    "price": 173.6486
   },
   {
     "capacity": 73.11,
-    "price": 63.1538
+    "price": 175.4671
   },
   {
     "capacity": 73.21,
-    "price": 63.8152
+    "price": 177.3046
   },
   {
     "capacity": 73.31,
-    "price": 64.4835
+    "price": 179.1614
   },
   {
     "capacity": 73.41,
-    "price": 65.1587
+    "price": 181.0377
   },
   {
     "capacity": 73.51,
-    "price": 65.8411
+    "price": 182.9335
   },
   {
     "capacity": 73.61,
-    "price": 66.5306
+    "price": 184.8493
   },
   {
     "capacity": 73.71,
-    "price": 67.2274
+    "price": 186.7851
   },
   {
     "capacity": 73.81,
-    "price": 67.9314
+    "price": 188.7412
   },
   {
     "capacity": 73.91,
-    "price": 68.6428
+    "price": 190.7177
   },
   {
     "capacity": 74.01,
-    "price": 69.3616
+    "price": 192.715
   },
   {
     "capacity": 74.11,
-    "price": 70.088
+    "price": 194.7332
   },
   {
     "capacity": 74.21,
-    "price": 70.822
+    "price": 196.7725
   },
   {
     "capacity": 74.31,
-    "price": 71.5637
+    "price": 198.8331
   },
   {
     "capacity": 74.41,
-    "price": 72.3131
+    "price": 200.9154
   },
   {
     "capacity": 74.51,
-    "price": 73.0704
+    "price": 203.0194
   },
   {
     "capacity": 74.61,
-    "price": 73.8356
+    "price": 205.1455
   },
   {
     "capacity": 74.71,
-    "price": 74.6088
+    "price": 207.2939
   },
   {
     "capacity": 74.81,
-    "price": 75.3902
+    "price": 209.4647
   },
   {
     "capacity": 74.91,
-    "price": 76.1797
+    "price": 211.6583
   },
   {
     "capacity": 75.01,
-    "price": 76.9775
+    "price": 213.8749
   },
   {
     "capacity": 75.11,
-    "price": 77.7836
+    "price": 216.1146
   },
   {
     "capacity": 75.21,
-    "price": 78.5982
+    "price": 218.3779
   },
   {
     "capacity": 75.31,
-    "price": 79.4213
+    "price": 220.6648
   },
   {
     "capacity": 75.41,
-    "price": 80.253
+    "price": 222.9757
   },
   {
     "capacity": 75.51,
-    "price": 81.0934
+    "price": 225.3107
   },
   {
     "capacity": 75.61,
-    "price": 81.9427
+    "price": 227.6703
   },
   {
     "capacity": 75.71,
-    "price": 82.8008
+    "price": 230.0545
   },
   {
     "capacity": 75.81,
-    "price": 83.6679
+    "price": 232.4637
   },
   {
     "capacity": 75.91,
-    "price": 84.5441
+    "price": 234.8981
   },
   {
     "capacity": 76.01,
-    "price": 85.4295
+    "price": 237.3581
   },
   {
     "capacity": 76.11,
-    "price": 86.3241
+    "price": 239.8438
   },
   {
     "capacity": 76.21,
-    "price": 87.2282
+    "price": 242.3555
   },
   {
     "capacity": 76.31,
-    "price": 88.1416
+    "price": 244.8935
   },
   {
     "capacity": 76.41,
-    "price": 89.0647
+    "price": 247.4581
   },
   {
     "capacity": 76.51,
-    "price": 89.9974
+    "price": 250.0496
   },
   {
     "capacity": 76.61,
-    "price": 90.9399
+    "price": 252.6682
   },
   {
     "capacity": 76.71,
-    "price": 91.8922
+    "price": 255.3142
   },
   {
     "capacity": 76.81,
-    "price": 92.8546
+    "price": 257.9879
   },
   {
     "capacity": 76.91,
-    "price": 93.827
+    "price": 260.6897
   },
   {
     "capacity": 77.01,
-    "price": 94.8096
+    "price": 263.4197
   },
   {
     "capacity": 77.11,
-    "price": 95.8024
+    "price": 266.1783
   },
   {
     "capacity": 77.21,
-    "price": 96.8057
+    "price": 268.9658
   },
   {
     "capacity": 77.31,
-    "price": 97.8195
+    "price": 271.7825
   },
   {
     "capacity": 77.41,
-    "price": 98.8439
+    "price": 274.6287
   },
   {
     "capacity": 77.51,
-    "price": 99.879
+    "price": 277.5047
   },
   {
     "capacity": 77.61,
-    "price": 100.925
+    "price": 280.4109
   },
   {
     "capacity": 77.71,
-    "price": 101.9819
+    "price": 283.3474
   },
   {
     "capacity": 77.81,
-    "price": 103.0499
+    "price": 286.3147
   },
   {
     "capacity": 77.91,
-    "price": 104.1291
+    "price": 289.3131
   },
   {
     "capacity": 78.01,
-    "price": 105.2195
+    "price": 292.3429
   },
   {
     "capacity": 78.11,
-    "price": 106.3214
+    "price": 295.4044
   },
   {
     "capacity": 78.21,
-    "price": 107.4349
+    "price": 298.498
   },
   {
     "capacity": 78.31,
-    "price": 108.56
+    "price": 301.6239
   },
   {
     "capacity": 78.41,
-    "price": 109.6968
+    "price": 304.7827
   },
   {
     "capacity": 78.51,
-    "price": 110.8456
+    "price": 307.9744
   },
   {
     "capacity": 78.61,
-    "price": 112.0064
+    "price": 311.1996
   },
   {
     "capacity": 78.71,
-    "price": 113.1794
+    "price": 314.4586
   },
   {
     "capacity": 78.81,
-    "price": 114.3646
+    "price": 317.7517
   },
   {
     "capacity": 78.91,
-    "price": 115.5623
+    "price": 321.0794
   },
   {
     "capacity": 79.01,
-    "price": 116.7725
+    "price": 324.4418
   },
   {
     "capacity": 79.11,
-    "price": 117.9954
+    "price": 327.8395
   },
   {
     "capacity": 79.21,
-    "price": 119.2311
+    "price": 331.2727
   },
   {
     "capacity": 79.31,
-    "price": 120.4797
+    "price": 334.7419
   },
   {
     "capacity": 79.41,
-    "price": 121.7414
+    "price": 338.2474
   },
   {
     "capacity": 79.51,
-    "price": 123.0163
+    "price": 341.7897
   },
   {
     "capacity": 79.61,
-    "price": 124.3046
+    "price": 345.369
   },
   {
     "capacity": 79.71,
-    "price": 125.6064
+    "price": 348.9858
   },
   {
     "capacity": 79.81,
-    "price": 126.9217
+    "price": 352.6405
   },
   {
     "capacity": 79.91,
-    "price": 128.2509
+    "price": 356.3335
   },
   {
     "capacity": 80.01,
-    "price": 129.594
+    "price": 360.0651
   },
   {
     "capacity": 80.11,
-    "price": 130.9511
+    "price": 363.8359
   },
   {
     "capacity": 80.21,
-    "price": 132.3225
+    "price": 367.6461
   },
   {
     "capacity": 80.31,
-    "price": 133.7082
+    "price": 371.4962
   },
   {
     "capacity": 80.41,
-    "price": 135.1085
+    "price": 375.3866
   },
   {
     "capacity": 80.51,
-    "price": 136.5234
+    "price": 379.3178
   },
   {
     "capacity": 80.61,
-    "price": 137.9531
+    "price": 383.2901
   },
   {
     "capacity": 80.71,
-    "price": 139.3978
+    "price": 387.3041
   },
   {
     "capacity": 80.81,
-    "price": 140.8576
+    "price": 391.36
   },
   {
     "capacity": 80.91,
-    "price": 142.3327
+    "price": 395.4585
   },
   {
     "capacity": 81.01,
-    "price": 143.8233
+    "price": 399.5999
   },
   {
     "capacity": 81.11,
-    "price": 145.3294
+    "price": 403.7846
   },
   {
     "capacity": 81.21,
-    "price": 146.8514
+    "price": 408.0132
   },
   {
     "capacity": 81.31,
-    "price": 148.3892
+    "price": 412.286
   },
   {
     "capacity": 81.41,
-    "price": 149.9432
+    "price": 416.6036
   },
   {
     "capacity": 81.51,
-    "price": 151.5135
+    "price": 420.9664
   },
   {
     "capacity": 81.61,
-    "price": 153.1002
+    "price": 425.3749
   },
   {
     "capacity": 81.71,
-    "price": 154.7035
+    "price": 429.8296
   },
   {
     "capacity": 81.81,
-    "price": 156.3236
+    "price": 434.3309
   },
   {
     "capacity": 81.91,
-    "price": 157.9607
+    "price": 438.8794
   },
   {
     "capacity": 82.01,
-    "price": 159.6149
+    "price": 443.4755
   },
   {
     "capacity": 82.11,
-    "price": 161.2864
+    "price": 448.1197
   },
   {
     "capacity": 82.21,
-    "price": 162.9755
+    "price": 452.8126
   },
   {
     "capacity": 82.31,
-    "price": 164.6822
+    "price": 457.5546
   },
   {
     "capacity": 82.41,
-    "price": 166.4068
+    "price": 462.3462
   },
   {
     "capacity": 82.51,
-    "price": 168.1495
+    "price": 467.1881
   },
   {
     "capacity": 82.61,
-    "price": 169.9104
+    "price": 472.0806
   },
   {
     "capacity": 82.71,
-    "price": 171.6898
+    "price": 477.0244
   },
   {
     "capacity": 82.81,
-    "price": 173.4878
+    "price": 482.02
   },
   {
     "capacity": 82.91,
-    "price": 175.3046
+    "price": 487.0678
   },
   {
     "capacity": 83.01,
-    "price": 177.1404
+    "price": 492.1686
   },
   {
     "capacity": 83.11,
-    "price": 178.9955
+    "price": 497.3227
   },
   {
     "capacity": 83.21,
-    "price": 180.87
+    "price": 502.5308
   },
   {
     "capacity": 83.31,
-    "price": 182.7641
+    "price": 507.7935
   },
   {
     "capacity": 83.41,
-    "price": 184.6781
+    "price": 513.1113
   },
   {
     "capacity": 83.51,
-    "price": 186.6121
+    "price": 518.4848
   },
   {
     "capacity": 83.61,
-    "price": 188.5664
+    "price": 523.9145
   },
   {
     "capacity": 83.71,
-    "price": 190.5411
+    "price": 529.4011
   },
   {
     "capacity": 83.81,
-    "price": 192.5365
+    "price": 534.9452
   },
   {
     "capacity": 83.91,
-    "price": 194.5528
+    "price": 540.5473
   },
   {
     "capacity": 84.01,
-    "price": 196.5902
+    "price": 546.2081
   },
   {
     "capacity": 84.11,
-    "price": 198.649
+    "price": 551.9282
   },
   {
     "capacity": 84.21,
-    "price": 200.7293
+    "price": 557.7081
   },
   {
     "capacity": 84.31,
-    "price": 202.8314
+    "price": 563.5487
   },
   {
     "capacity": 84.41,
-    "price": 204.9555
+    "price": 569.4503
   },
   {
     "capacity": 84.51,
-    "price": 207.1019
+    "price": 575.4138
   },
   {
     "capacity": 84.61,
-    "price": 209.2707
+    "price": 581.4397
   },
   {
     "capacity": 84.71,
-    "price": 211.4623
+    "price": 587.5288
   },
   {
     "capacity": 84.81,
-    "price": 213.6768
+    "price": 593.6815
   },
   {
     "capacity": 84.91,
-    "price": 215.9145
+    "price": 599.8988
   },
   {
     "capacity": 85.01,
-    "price": 218.1756
+    "price": 606.1811
   },
   {
     "capacity": 85.11,
-    "price": 220.4604
+    "price": 612.5292
   },
   {
     "capacity": 85.21,
-    "price": 222.7692
+    "price": 618.9439
   },
   {
     "capacity": 85.31,
-    "price": 225.1021
+    "price": 625.4256
   },
   {
     "capacity": 85.41,
-    "price": 227.4594
+    "price": 631.9753
   },
   {
     "capacity": 85.51,
-    "price": 229.8415
+    "price": 638.5936
   },
   {
     "capacity": 85.61,
-    "price": 232.2484
+    "price": 645.2811
   },
   {
     "capacity": 85.71,
-    "price": 234.6806
+    "price": 652.0387
   },
   {
     "capacity": 85.81,
-    "price": 237.1383
+    "price": 658.8671
   },
   {
     "capacity": 85.91,
-    "price": 239.6217
+    "price": 665.767
   },
   {
     "capacity": 86.01,
-    "price": 242.1311
+    "price": 672.7391
   },
   {
     "capacity": 86.11,
-    "price": 244.6667
+    "price": 679.7842
   },
   {
     "capacity": 86.21,
-    "price": 247.229
+    "price": 686.9032
   },
   {
     "capacity": 86.31,
-    "price": 249.818
+    "price": 694.0967
   },
   {
     "capacity": 86.41,
-    "price": 252.4342
+    "price": 701.3655
   },
   {
     "capacity": 86.51,
-    "price": 255.0778
+    "price": 708.7104
   },
   {
     "capacity": 86.61,
-    "price": 257.749
+    "price": 716.1322
   },
   {
     "capacity": 86.71,
-    "price": 260.4483
+    "price": 723.6318
   },
   {
     "capacity": 86.81,
-    "price": 263.1758
+    "price": 731.2099
   },
   {
     "capacity": 86.91,
-    "price": 265.9318
+    "price": 738.8674
   },
   {
     "capacity": 87.01,
-    "price": 268.7168
+    "price": 746.6051
   },
   {
     "capacity": 87.11,
-    "price": 271.5309
+    "price": 754.4238
   },
   {
     "capacity": 87.21,
-    "price": 274.3744
+    "price": 762.3243
   },
   {
     "capacity": 87.31,
-    "price": 277.2478
+    "price": 770.3077
   },
   {
     "capacity": 87.41,
-    "price": 280.1512
+    "price": 778.3746
   },
   {
     "capacity": 87.51,
-    "price": 283.085
+    "price": 786.526
   },
   {
     "capacity": 87.61,
-    "price": 286.0496
+    "price": 794.7627
   },
   {
     "capacity": 87.71,
-    "price": 289.0452
+    "price": 803.0858
   },
   {
     "capacity": 87.81,
-    "price": 292.0722
+    "price": 811.4959
   },
   {
     "capacity": 87.91,
-    "price": 295.1308
+    "price": 819.9942
   },
   {
     "capacity": 88.01,
-    "price": 298.2216
+    "price": 828.5814
   },
   {
     "capacity": 88.11,
-    "price": 301.3446
+    "price": 837.2586
   },
   {
     "capacity": 88.21,
-    "price": 304.5004
+    "price": 846.0267
   },
   {
     "capacity": 88.31,
-    "price": 307.6892
+    "price": 854.8865
   },
   {
     "capacity": 88.41,
-    "price": 310.9115
+    "price": 863.8392
   },
   {
     "capacity": 88.51,
-    "price": 314.1674
+    "price": 872.8856
   },
   {
     "capacity": 88.61,
-    "price": 317.4575
+    "price": 882.0268
   },
   {
     "capacity": 88.71,
-    "price": 320.782
+    "price": 891.2636
   },
   {
     "capacity": 88.81,
-    "price": 324.1414
+    "price": 900.5973
   },
   {
     "capacity": 88.91,
-    "price": 327.5359
+    "price": 910.0286
   },
   {
     "capacity": 89.01,
-    "price": 330.9659
+    "price": 919.5587
   },
   {
     "capacity": 89.11,
-    "price": 334.4319
+    "price": 929.1887
   },
   {
     "capacity": 89.21,
-    "price": 337.9342
+    "price": 938.9194
   },
   {
     "capacity": 89.31,
-    "price": 341.4732
+    "price": 948.7521
   },
   {
     "capacity": 89.41,
-    "price": 345.0492
+    "price": 958.6877
   },
   {
     "capacity": 89.51,
-    "price": 348.6626
+    "price": 968.7274
   },
   {
     "capacity": 89.61,
-    "price": 352.314
+    "price": 978.8723
   },
   {
     "capacity": 89.71,
-    "price": 356.0035
+    "price": 989.1234
   },
   {
     "capacity": 89.81,
-    "price": 359.7317
+    "price": 999.4818
   },
   {
     "capacity": 89.91,
-    "price": 363.4989
+    "price": 1009.9487
   },
   {
     "capacity": 90.01,
-    "price": 367.3056
+    "price": 1020.5252
   },
   {
     "capacity": 90.11,
-    "price": 371.1522
+    "price": 1031.2125
   },
   {
     "capacity": 90.21,
-    "price": 375.039
+    "price": 1042.0117
   },
   {
     "capacity": 90.31,
-    "price": 378.9665
+    "price": 1052.924
   },
   {
     "capacity": 90.41,
-    "price": 382.9352
+    "price": 1063.9506
   },
   {
     "capacity": 90.51,
-    "price": 386.9454
+    "price": 1075.0926
   },
   {
     "capacity": 90.61,
-    "price": 390.9976
+    "price": 1086.3513
   },
   {
     "capacity": 90.71,
-    "price": 395.0923
+    "price": 1097.728
   },
   {
     "capacity": 90.81,
-    "price": 399.2298
+    "price": 1109.2237
   },
   {
     "capacity": 90.91,
-    "price": 403.4107
+    "price": 1120.8399
   },
   {
     "capacity": 91.01,
-    "price": 407.6353
+    "price": 1132.5777
   },
   {
     "capacity": 91.11,
-    "price": 411.9042
+    "price": 1144.4384
   },
   {
     "capacity": 91.21,
-    "price": 416.2178
+    "price": 1156.4234
   },
   {
     "capacity": 91.31,
-    "price": 420.5766
+    "price": 1168.5338
   },
   {
     "capacity": 91.41,
-    "price": 424.981
+    "price": 1180.7711
   },
   {
     "capacity": 91.51,
-    "price": 429.4316
+    "price": 1193.1365
   },
   {
     "capacity": 91.61,
-    "price": 433.9287
+    "price": 1205.6314
   },
   {
     "capacity": 91.71,
-    "price": 438.473
+    "price": 1218.2572
   },
   {
     "capacity": 91.81,
-    "price": 443.0648
+    "price": 1231.0152
   },
   {
     "capacity": 91.91,
-    "price": 447.7047
+    "price": 1243.9068
   },
   {
     "capacity": 92.01,
-    "price": 452.3932
+    "price": 1256.9334
   },
   {
     "capacity": 92.11,
-    "price": 457.1308
+    "price": 1270.0964
   },
   {
     "capacity": 92.21,
-    "price": 461.9181
+    "price": 1283.3973
   },
   {
     "capacity": 92.31,
-    "price": 466.7554
+    "price": 1296.8375
   },
   {
     "capacity": 92.41,
-    "price": 471.6434
+    "price": 1310.4184
   },
   {
     "capacity": 92.51,
-    "price": 476.5826
+    "price": 1324.1415
   },
   {
     "capacity": 92.61,
-    "price": 481.5736
+    "price": 1338.0084
   },
   {
     "capacity": 92.71,
-    "price": 486.6168
+    "price": 1352.0204
   },
   {
     "capacity": 92.81,
-    "price": 491.7128
+    "price": 1366.1792
   },
   {
     "capacity": 92.91,
-    "price": 496.8622
+    "price": 1380.4863
   },
   {
     "capacity": 93.01,
-    "price": 502.0655
+    "price": 1394.9432
   },
   {
     "capacity": 93.11,
-    "price": 507.3233
+    "price": 1409.5516
   },
   {
     "capacity": 93.21,
-    "price": 512.6361
+    "price": 1424.3128
   },
   {
     "capacity": 93.31,
-    "price": 518.0046
+    "price": 1439.2287
   },
   {
     "capacity": 93.41,
-    "price": 523.4293
+    "price": 1454.3008
   },
   {
     "capacity": 93.51,
-    "price": 528.9109
+    "price": 1469.5307
   },
   {
     "capacity": 93.61,
-    "price": 534.4498
+    "price": 1484.9201
   },
   {
     "capacity": 93.71,
-    "price": 540.0467
+    "price": 1500.4707
   },
   {
     "capacity": 93.81,
-    "price": 545.7023
+    "price": 1516.1841
   },
   {
     "capacity": 93.91,
-    "price": 551.4171
+    "price": 1532.0621
   },
   {
     "capacity": 94.01,
-    "price": 557.1917
+    "price": 1548.1064
   },
   {
     "capacity": 94.11,
-    "price": 563.0268
+    "price": 1564.3187
   },
   {
     "capacity": 94.21,
-    "price": 568.923
+    "price": 1580.7007
   },
   {
     "capacity": 94.31,
-    "price": 574.8809
+    "price": 1597.2544
   },
   {
     "capacity": 94.41,
-    "price": 580.9013
+    "price": 1613.9813
   },
   {
     "capacity": 94.51,
-    "price": 586.9847
+    "price": 1630.8835
   },
   {
     "capacity": 94.61,
-    "price": 593.1318
+    "price": 1647.9626
   },
   {
     "capacity": 94.71,
-    "price": 599.3432
+    "price": 1665.2207
   },
   {
     "capacity": 94.81,
-    "price": 605.6198
+    "price": 1682.6594
   },
   {
     "capacity": 94.91,
-    "price": 611.962
+    "price": 1700.2808
   },
   {
     "capacity": 95.01,
-    "price": 618.3707
+    "price": 1718.0867
   },
   {
     "capacity": 95.11,
-    "price": 624.8465
+    "price": 1736.0791
   },
   {
     "capacity": 95.21,
-    "price": 631.3901
+    "price": 1754.2599
   },
   {
     "capacity": 95.31,
-    "price": 638.0022
+    "price": 1772.631
   },
   {
     "capacity": 95.41,
-    "price": 644.6836
+    "price": 1791.1946
   },
   {
     "capacity": 95.51,
-    "price": 651.4349
+    "price": 1809.9526
   },
   {
     "capacity": 95.61,
-    "price": 658.2569
+    "price": 1828.907
   },
   {
     "capacity": 95.71,
-    "price": 665.1504
+    "price": 1848.06
   },
   {
     "capacity": 95.81,
-    "price": 672.1161
+    "price": 1867.4135
   },
   {
     "capacity": 95.91,
-    "price": 679.1547
+    "price": 1886.9696
   },
   {
     "capacity": 96.01,
-    "price": 686.2671
+    "price": 1906.7306
   },
   {
     "capacity": 96.11,
-    "price": 693.4539
+    "price": 1926.6985
   },
   {
     "capacity": 96.21,
-    "price": 700.716
+    "price": 1946.8755
   },
   {
     "capacity": 96.31,
-    "price": 708.0541
+    "price": 1967.2639
   },
   {
     "capacity": 96.41,
-    "price": 715.4691
+    "price": 1987.8657
   },
   {
     "capacity": 96.51,
-    "price": 722.9617
+    "price": 2008.6833
   },
   {
     "capacity": 96.61,
-    "price": 730.5328
+    "price": 2029.7189
   },
   {
     "capacity": 96.71,
-    "price": 738.1832
+    "price": 2050.9748
   },
   {
     "capacity": 96.81,
-    "price": 745.9137
+    "price": 2072.4533
   },
   {
     "capacity": 96.91,
-    "price": 753.7251
+    "price": 2094.1567
   },
   {
     "capacity": 97.01,
-    "price": 761.6184
+    "price": 2116.0874
   },
   {
     "capacity": 97.11,
-    "price": 769.5943
+    "price": 2138.2478
   },
   {
     "capacity": 97.21,
-    "price": 777.6538
+    "price": 2160.6402
   },
   {
     "capacity": 97.31,
-    "price": 785.7976
+    "price": 2183.2672
   },
   {
     "capacity": 97.41,
-    "price": 794.0267
+    "price": 2206.1311
   },
   {
     "capacity": 97.51,
-    "price": 802.3421
+    "price": 2229.2344
   },
   {
     "capacity": 97.61,
-    "price": 810.7444
+    "price": 2252.5797
   },
   {
     "capacity": 97.71,
-    "price": 819.2348
+    "price": 2276.1695
   },
   {
     "capacity": 97.81,
-    "price": 827.8141
+    "price": 2300.0063
   },
   {
     "capacity": 97.91,
-    "price": 836.4833
+    "price": 2324.0927
   },
   {
     "capacity": 98.01,
-    "price": 845.2432
+    "price": 2348.4314
   },
   {
     "capacity": 98.11,
-    "price": 854.0949
+    "price": 2373.0249
   },
   {
     "capacity": 98.21,
-    "price": 863.0392
+    "price": 2397.876
   },
   {
     "capacity": 98.31,
-    "price": 872.0773
+    "price": 2422.9874
   },
   {
     "capacity": 98.41,
-    "price": 881.21
+    "price": 2448.3617
   },
   {
     "capacity": 98.51,
-    "price": 890.4383
+    "price": 2474.0018
   },
   {
     "capacity": 98.61,
-    "price": 899.7633
+    "price": 2499.9103
   },
   {
     "capacity": 98.71,
-    "price": 909.1859
+    "price": 2526.0902
   },
   {
     "capacity": 98.81,
-    "price": 918.7072
+    "price": 2552.5443
   },
   {
     "capacity": 98.91,
-    "price": 928.3282
+    "price": 2579.2754
   },
   {
     "capacity": 99.01,
-    "price": 938.0499
+    "price": 2606.2864
   },
   {
     "capacity": 99.11,
-    "price": 947.8735
+    "price": 2633.5803
   },
   {
     "capacity": 99.21,
-    "price": 957.8
+    "price": 2661.16
   },
   {
     "capacity": 99.31,
-    "price": 967.8304
+    "price": 2689.0286
   },
   {
     "capacity": 99.41,
-    "price": 977.9658
+    "price": 2717.189
   },
   {
     "capacity": 99.51,
-    "price": 988.2074
+    "price": 2745.6443
   },
   {
     "capacity": 99.61,
-    "price": 998.5562
+    "price": 2774.3976
   },
   {
     "capacity": 99.71,
-    "price": 1009.0134
+    "price": 2803.452
   },
   {
     "capacity": 99.81,
-    "price": 1019.5801
+    "price": 2832.8107
   },
   {
     "capacity": 99.91,
-    "price": 1030.2575
+    "price": 2862.4768
   }
 ]
